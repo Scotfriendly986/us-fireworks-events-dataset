@@ -1,0 +1,283 @@
+[
+  {
+    "id": "sydney-nye-2026",
+    "title": "Sydney NYE Fireworks 2026",
+    "slug": "sydney-nye-fireworks-2026",
+    "country": "AU",
+    "state": "NSW",
+    "city": "Sydney",
+    "venue": "Sydney Harbour",
+    "address": "Sydney Harbour, Sydney NSW",
+    "startDate": "2026-12-31T23:45:00+11:00",
+    "endDate": "2027-01-01T00:30:00+11:00",
+    "timezone": "Australia/Sydney",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sydneynewyearseve.com/",
+    "sourceName": "Sydney New Year's Eve Official Site",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Sydney Harbour New Year's Eve fireworks information.",
+    "description": "Sydney New Year's Eve is the official public source for harbour fireworks timing, viewing areas, accessibility notes, and event-day safety updates.",
+    "viewingTips": [
+      "Use the official vantage point guide before choosing a viewing area.",
+      "Arrive early and follow capacity updates on the official site."
+    ],
+    "parkingTips": [
+      "Central parking is limited during NYE road closures.",
+      "Prioritize public transport and official walking routes."
+    ],
+    "transitTips": [
+      "Use Sydney public transport and check event-day changes before leaving.",
+      "Plan extra time for crowd-managed station exits."
+    ],
+    "safetyNotes": [
+      "Stay inside designated viewing areas.",
+      "Follow police, transport, and event staff instructions."
+    ],
+    "image": "/images/photos/nye-fireworks-01.webp",
+    "latitude": -33.857,
+    "longitude": 151.2153
+  },
+  {
+    "id": "london-nye-2026",
+    "title": "London New Year Fireworks 2026",
+    "slug": "london-new-year-fireworks-2026",
+    "country": "GB",
+    "state": "England",
+    "city": "London",
+    "venue": "Central London",
+    "address": "Central London, United Kingdom",
+    "startDate": "2026-12-31T23:55:00+00:00",
+    "endDate": "2027-01-01T00:40:00+00:00",
+    "timezone": "Europe/London",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://nye.london.gov.uk/",
+    "sourceName": "London New Year's Eve Official Site",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official London New Year's Eve fireworks and event guidance.",
+    "description": "London's official New Year's Eve site provides ticketing, viewing, transport, and safety updates for the city's public celebration.",
+    "viewingTips": [
+      "Check official ticketing and viewing guidance before travelling.",
+      "Bring warm layers and allow time for crowd-managed access."
+    ],
+    "parkingTips": [
+      "Do not expect public parking around central celebration zones.",
+      "Use transit and official walking routes."
+    ],
+    "transitTips": [
+      "Plan Tube and rail routes before leaving.",
+      "Expect station controls and post-event crowd management."
+    ],
+    "safetyNotes": [
+      "Stay behind barriers until official release.",
+      "Follow police and event steward instructions."
+    ],
+    "image": "/images/photos/nye-fireworks-05.webp",
+    "latitude": 51.5072,
+    "longitude": -0.1276
+  },
+  {
+    "id": "nyc-times-square-nye-2026",
+    "title": "New York City Times Square New Year 2027",
+    "slug": "nyc-times-square-new-year-2027",
+    "country": "US",
+    "state": "NY",
+    "city": "New York City",
+    "venue": "Times Square",
+    "address": "Times Square, New York, NY 10036",
+    "startDate": "2026-12-31T18:00:00-05:00",
+    "endDate": "2027-01-01T00:30:00-05:00",
+    "timezone": "America/New_York",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.timessquarenyc.org/",
+    "sourceName": "Times Square Alliance",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Times Square New Year's Eve includes the official ball drop at midnight with crowd-controlled pen access.",
+    "description": "The Times Square Alliance and Countdown Entertainment co-host the official New York City New Year's Eve countdown with the iconic Waterford crystal ball drop. The event itself does not include city-wide fireworks but does include confetti and pyrotechnic effects on the Times Square stages.",
+    "viewingTips": [
+      "Spectator pens form between 42nd and 47th streets — gates open early afternoon.",
+      "After 3pm bags are screened; after 5pm pens lock and re-entry is impossible.",
+      "Liberty Lounge ticketed venues offer indoor warm-up with view of the ball."
+    ],
+    "parkingTips": [
+      "All Times Square garages close to incoming traffic from 4pm December 31.",
+      "Best transit is from Midtown East via subway."
+    ],
+    "transitTips": [
+      "MTA subway 1, 2, 3, 7, N, Q, R, S, W lines exit at Times Square - 42nd Street.",
+      "Eighth Avenue subway lines A, C, E also exit near Port Authority."
+    ],
+    "safetyNotes": [
+      "NYPD restricts umbrellas, large bags, and folding chairs after 3pm.",
+      "No restroom access inside pens — restaurants east of Sixth Avenue stay open."
+    ],
+    "image": "/images/photos/new-york-fireworks-04.webp",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": "las-vegas-strip-nye-2026",
+    "title": "Las Vegas Strip New Year 2027 Fireworks",
+    "slug": "las-vegas-strip-new-year-2027-fireworks",
+    "country": "US",
+    "state": "NV",
+    "city": "Las Vegas",
+    "venue": "Las Vegas Strip",
+    "address": "Las Vegas Boulevard, Las Vegas, NV",
+    "startDate": "2026-12-31T23:59:00-08:00",
+    "endDate": "2027-01-01T00:10:00-08:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.lvcva.com/",
+    "sourceName": "Las Vegas Convention and Visitors Authority",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "America's Party — the Las Vegas Strip's 8-minute, 7-resort synchronized rooftop fireworks at midnight.",
+    "description": "The Las Vegas Convention and Visitors Authority coordinates America's Party — a synchronized 8-minute pyrotechnic show from seven Strip resort rooftops at midnight.",
+    "viewingTips": [
+      "Tropicana/Las Vegas Boulevard and Flamingo overpasses are the official public viewing areas.",
+      "Resort pool decks (Caesars, Aria, MGM) sell tickets but capacity is locked from 6pm."
+    ],
+    "parkingTips": [
+      "Strip closes to vehicle traffic 6pm December 31 to 3am January 1.",
+      "Park off-Strip (Linq garage, Sahara garage) and walk in."
+    ],
+    "transitTips": [
+      "RTC Deuce buses run extended hours but slow to walking pace.",
+      "Las Vegas Monorail runs continuously through 3am."
+    ],
+    "safetyNotes": [
+      "Backpacks and large bags are banned in the pedestrian zone — bring small clear bags.",
+      "Alcohol sales transition to closed-container only after 8pm — open containers seized at the gate."
+    ],
+    "image": "/images/photos/nye-fireworks.webp",
+    "latitude": 36.1716,
+    "longitude": -115.1391
+  },
+  {
+    "id": "miami-bayfront-nye-2026",
+    "title": "Miami Bayfront Park New Year 2027 Fireworks",
+    "slug": "miami-bayfront-new-year-2027-fireworks",
+    "country": "US",
+    "state": "FL",
+    "city": "Miami",
+    "venue": "Bayfront Park",
+    "address": "301 Biscayne Blvd, Miami, FL 33132",
+    "startDate": "2026-12-31T23:55:00-05:00",
+    "endDate": "2027-01-01T00:30:00-05:00",
+    "timezone": "America/New_York",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.miamigov.com/",
+    "sourceName": "City of Miami",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Bayfront Park hosts the City of Miami's New Year's Eve countdown and fireworks over Biscayne Bay.",
+    "description": "The City of Miami operates Bayfront Park's New Year's Eve countdown with fireworks at midnight, including crowd-control planning, official timing updates, and transit support into the late evening. Families should arrive early for bag screening, confirm gate timing on-site updates, and watch for closure windows around Biscayne Boulevard when events peak.",
+    "viewingTips": [
+      "Bayfront Park amphitheater is the main viewing area.",
+      "PortMiami eastern bulkhead has a quieter cross-bay view."
+    ],
+    "parkingTips": [
+      "InterContinental and JW Marriott garages stay open through 3am.",
+      "Biscayne Boulevard closes 8pm to 2am."
+    ],
+    "transitTips": [
+      "Metromover (free) runs every 90 seconds through 2am."
+    ],
+    "safetyNotes": [
+      "Bayfront security uses metal detectors — clear bags only."
+    ],
+    "image": "/images/photos/nye-fireworks-01.webp",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "id": "nashville-bash-music-city-nye-2026",
+    "title": "Nashville Bash on Broadway New Year 2027",
+    "slug": "nashville-bash-on-broadway-new-year-2027",
+    "country": "US",
+    "state": "TN",
+    "city": "Nashville",
+    "venue": "Lower Broadway",
+    "address": "Broadway between 1st and 5th Ave, Nashville, TN",
+    "startDate": "2026-12-31T20:00:00-06:00",
+    "endDate": "2027-01-01T00:30:00-06:00",
+    "timezone": "America/Chicago",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://visitmusiccity.com/",
+    "sourceName": "Nashville Convention & Visitors Corp",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Bash on Broadway is Nashville's flagship New Year's Eve celebration with the iconic Music Note Drop and fireworks.",
+    "description": "Nashville Convention & Visitors Corp operates the Bash on Broadway with a Music Note Drop and a fireworks finale at midnight.",
+    "viewingTips": [
+      "Broadway between 1st and 4th gives the closest view of the Music Note Drop.",
+      "Cumberland Park (east bank) has the cleanest fireworks sightline."
+    ],
+    "parkingTips": [
+      "Convention Center garage and Nissan Stadium lots stay open through 3am.",
+      "Broadway closes to vehicles 4pm December 31."
+    ],
+    "transitTips": [
+      "WeGo bus routes 4, 7, 26 reroute around Lower Broadway."
+    ],
+    "safetyNotes": [
+      "Honky-tonk-area sidewalks become single-file after 10pm."
+    ],
+    "image": "/images/photos/nye-fireworks.webp",
+    "latitude": 36.1627,
+    "longitude": -86.7816
+  },
+  {
+    "id": "orlando-cinco-fest-nye-2026",
+    "title": "Orlando New Year 2027 Fireworks at the Fountain",
+    "slug": "orlando-new-year-2027-fireworks-at-the-fountain",
+    "country": "US",
+    "state": "FL",
+    "city": "Orlando",
+    "venue": "Lake Eola Park",
+    "address": "512 E Washington St, Orlando, FL 32801",
+    "startDate": "2026-12-31T23:55:00-05:00",
+    "endDate": "2027-01-01T00:15:00-05:00",
+    "timezone": "America/New_York",
+    "eventType": "nye",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.orlando.gov/",
+    "sourceName": "City of Orlando",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Lake Eola Park hosts Orlando's free New Year's Eve fireworks.",
+    "description": "The City of Orlando operates the New Year's Eve Fireworks at the Fountain with stage programming and a midnight fireworks show.",
+    "viewingTips": [
+      "East side of the lake (Eola Drive) is the best fountain framing.",
+      "Constitution Green stays quieter for families."
+    ],
+    "parkingTips": [
+      "Library Central and CNL garages stay open through 2am."
+    ],
+    "transitTips": [
+      "LYNX Lymmo Orange Line is free with stops at City Hall."
+    ],
+    "safetyNotes": [
+      "Lake Eola has limited fencing; keep small children inland of the path."
+    ],
+    "image": "/images/photos/nye-fireworks.webp",
+    "latitude": 28.5383,
+    "longitude": -81.3792
+  }
+]

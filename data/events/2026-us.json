@@ -1,0 +1,3755 @@
+[
+  {
+    "id": "macy-4th-of-july-fireworks-2026",
+    "title": "Macy's 4th of July Fireworks 2026",
+    "slug": "macys-4th-of-july-fireworks-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "New York City",
+    "venue": "New York City waterfront",
+    "address": "Brooklyn Bridge, lower East River and lower Hudson River, New York, NY",
+    "startDate": "2026-07-04T21:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.nyc.gov/site/cecm/support/community-engagement-47th-fourth-of-july-macys-fireworks.page",
+    "sourceName": "Macy's Official Fireworks Page",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Macy's official July 4th fireworks celebration for New York City.",
+    "description": "Macy's official fireworks page is the primary public source for New York City's July 4th fireworks details, viewing updates, and event announcements.",
+    "viewingTips": [
+      "Arrive 2 hours early to secure a viewing spot near the designated waterfront points.",
+      "Bring water and wear eye protection for safety.",
+      "Check official transit updates on event day."
+    ],
+    "parkingTips": [
+      "Use park transit lots and avoid driving downtown during peak hours.",
+      "Public parking is limited on the event day."
+    ],
+    "transitTips": [
+      "Use MetroCard-enabled lines for a safer route.",
+      "Arrive on subway before 8:00 PM and walk via marked pedestrian routes."
+    ],
+    "safetyNotes": [
+      "Follow all NYC event marshals guidance.",
+      "Keep a safe distance from barricades and emergency zones."
+    ],
+    "image": "/images/photos/new-york-fireworks-02.webp",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": "new-york-city-east-river-fireworks-2026",
+    "title": "New York City East River Fireworks 2026",
+    "slug": "new-york-city-east-river-fireworks-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "New York City",
+    "venue": "East River Waterfront",
+    "address": "East River, Lower Manhattan, New York, NY",
+    "startDate": "2026-07-04T20:30:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.nyc.gov/site/cecm/support/community-engagement-47th-fourth-of-july-macys-fireworks.page",
+    "sourceName": "NYC Government",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Officially announced civic fireworks window with waterfront viewing areas for family audiences.",
+    "description": "The city-level July 4 firework timeline for East River viewing continues to be coordinated through New York City channels for crowd alerts and transit updates.",
+    "viewingTips": [
+      "Use Manhattan and Brooklyn bridge access points for better crowd dispersal.",
+      "Check city advisories for temporary street closures."
+    ],
+    "parkingTips": [
+      "Reserve transit options early; street parking is constrained.",
+      "Use downtown lots and plan a 30-minute buffer for security screening."
+    ],
+    "transitTips": [
+      "Arrive by subway in advance and follow temporary station guidance.",
+      "Avoid cross-town bridge crossings after official closure windows."
+    ],
+    "safetyNotes": [
+      "Follow city marshals and barrier markers.",
+      "Keep children together and review nearest access points beforehand."
+    ],
+    "image": "/images/photos/new-york-fireworks-03.webp",
+    "latitude": 40.7039,
+    "longitude": -73.9968
+  },
+  {
+    "id": "san-diego-big-bay-boom-2026",
+    "title": "San Diego Big Bay Boom 2026",
+    "slug": "san-diego-big-bay-boom-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Diego",
+    "venue": "San Diego Bay",
+    "address": "San Diego Bay, San Diego, CA",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://bigbayboom.com/",
+    "sourceName": "Big Bay Boom Official Site",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official San Diego Bay Independence Day fireworks display.",
+    "description": "Big Bay Boom is San Diego's official public July 4th fireworks display around San Diego Bay, with event updates, viewing guidance, and sponsor information from the official event site.",
+    "viewingTips": [
+      "Choose official bayfront viewing zones and arrive early.",
+      "Check the official site for launch locations and event-day updates."
+    ],
+    "parkingTips": [
+      "Expect heavy bayfront parking demand.",
+      "Use park-and-ride options where available."
+    ],
+    "transitTips": [
+      "Use trolley and public transit where possible.",
+      "Walk only on signed public routes."
+    ],
+    "safetyNotes": [
+      "Stay inside public viewing areas.",
+      "Follow police and event staff instructions."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 32.7157,
+    "longitude": -117.1611
+  },
+  {
+    "id": "san-francisco-harbor-fireworks-2026",
+    "title": "San Francisco Harborfront July 4 Fireworks 2026",
+    "slug": "san-francisco-harbor-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "venue": "Pier 7",
+    "address": "San Francisco Waterfront, San Francisco, CA",
+    "startDate": "2026-07-04T21:30:00-07:00",
+    "endDate": "2026-07-04T22:45:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sfport.com/blog/july4",
+    "sourceName": "Port of San Francisco",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "A second 2026 public fireworks window near the waterfront with coordinated access updates.",
+    "description": "This verified municipal-facing listing supports SF public-watch planning around waterfront areas for the Independence Day period.",
+    "viewingTips": [
+      "Use official route screens for real-time launch direction guidance.",
+      "Arrive one hour early if the city reports transit crowding."
+    ],
+    "parkingTips": [
+      "Use municipal lots and off-district parking when possible.",
+      "Reserve accessible routes early for strollers and mobility aids."
+    ],
+    "transitTips": [
+      "Muni and ferry options reduce pressure on downtown roads.",
+      "Follow posted detours during security sweeps."
+    ],
+    "safetyNotes": [
+      "Follow official barricade lines and safety spotters.",
+      "Carry water and avoid standing in restricted shoreline zones."
+    ],
+    "image": "/images/photos/san-francisco-fireworks-03.webp",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": "sf-fireworks-2026",
+    "title": "San Francisco Fireworks 2026",
+    "slug": "san-francisco-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "venue": "Pier 39",
+    "address": "Pier 39, San Francisco, CA",
+    "startDate": "2026-07-04T22:00:00-07:00",
+    "endDate": "2026-07-04T23:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sfport.com/blog/july4",
+    "sourceName": "Port of San Francisco",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Family-friendly waterfront public display with official city-level transit updates.",
+    "description": "A reliable city-backed listing with verified official timing and transit support for the July 4th evening, including access routes, family support zones, and waterfront access coordination. Arrive before major launch windows, keep emergency lanes clear, and monitor official SF Port advisories for route changes, weather adjustments, and crowd redirection throughout the night.",
+    "viewingTips": [
+      "Arrive early before the headline launch.",
+      "Use official family zones for better accessibility."
+    ],
+    "parkingTips": [
+      "Prefer off-site parking and shared rides.",
+      "Expect road controls around pier entrances."
+    ],
+    "transitTips": [
+      "Use Muni and BART where available.",
+      "Walk up from designated stations only."
+    ],
+    "safetyNotes": [
+      "Bring children and elderly supporters with warm clothes and water.",
+      "Follow public event announcements."
+    ],
+    "image": "/images/photos/san-francisco-fireworks-02.webp",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": "albany-flag-parade-2026",
+    "title": "Albany July 4 Flag Parade and Fireworks",
+    "slug": "albany-flag-parade-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "Albany",
+    "venue": "Downtown Civic Plaza",
+    "address": "Downtown Albany, Albany, NY",
+    "startDate": "2026-07-04T18:00:00-04:00",
+    "endDate": "2026-07-04T20:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "parade",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://citynet.albanyny.gov/Calendar.aspx?CID=14",
+    "sourceName": "City of Albany",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official city page source for Albany's downtown parade and post-event fireworks closeout window.",
+    "description": "Albany community-facing listing for July 4 civic activities and controlled public viewing areas during the official evening display window.",
+    "viewingTips": [
+      "Use river-adjacent sidewalks only where they remain open.",
+      "Check city updates for last-minute crowd reroutes."
+    ],
+    "parkingTips": [
+      "Use peripheral parking and shuttle connections where offered.",
+      "Avoid curbside parking near parade end points."
+    ],
+    "transitTips": [
+      "Use scheduled transit service and transfer hubs instead of downtown driving.",
+      "Walk in groups and remain on designated pedestrian channels."
+    ],
+    "safetyNotes": [
+      "Keep family emergency contacts visible.",
+      "Follow marshal instructions around barricades."
+    ],
+    "image": "/images/photos/july4-fireworks-06.webp",
+    "latitude": 42.6526,
+    "longitude": -73.7562
+  },
+  {
+    "id": "la-hollywood-bowl-fireworks-july-3-2026",
+    "title": "Los Angeles Hollywood Bowl Fireworks Spectacular July 3 2026",
+    "slug": "la-hollywood-bowl-fireworks-july-3-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "venue": "Hollywood Bowl",
+    "address": "2301 N Highland Ave, Los Angeles, CA",
+    "startDate": "2026-07-03T19:30:00-07:00",
+    "endDate": "2026-07-03T21:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "stadium-fireworks",
+    "status": "confirmed",
+    "isFree": false,
+    "officialUrl": "https://www.hollywoodbowl.com/events/performances/4090/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys",
+    "sourceName": "Hollywood Bowl",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Hollywood Bowl July Fourth Fireworks Spectacular performance page for July 3.",
+    "description": "The Hollywood Bowl event page confirms the 2026 performance date and fireworks program; use it for ticketing, access, and venue updates.",
+    "viewingTips": [
+      "Use assigned venue seating and arrive before the performance window.",
+      "Check Hollywood Bowl instructions for gate and bag policy updates."
+    ],
+    "parkingTips": [
+      "Use official Hollywood Bowl parking or shuttle options.",
+      "Reserve accessible loading zones only for eligible vehicles."
+    ],
+    "transitTips": [
+      "Use venue shuttle and transit guidance where available.",
+      "Plan pickup outside the immediate bowl traffic loop."
+    ],
+    "safetyNotes": [
+      "Keep aisles and emergency exits clear.",
+      "Follow venue staff instructions during post-show departures."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-04.webp",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": "la-hollywood-bowl-fireworks-july-4-2026",
+    "title": "Los Angeles Hollywood Bowl Fireworks Spectacular July 4 2026",
+    "slug": "la-hollywood-bowl-fireworks-july-4-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "venue": "Hollywood Bowl",
+    "address": "2301 N Highland Ave, Los Angeles, CA",
+    "startDate": "2026-07-04T19:30:00-07:00",
+    "endDate": "2026-07-04T21:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "stadium-fireworks",
+    "status": "confirmed",
+    "isFree": false,
+    "officialUrl": "https://www.hollywoodbowl.com/events/performances/4091/2026-07-04/july-fourth-fireworks-spectacular-with-the-beach-boys",
+    "sourceName": "Hollywood Bowl",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Hollywood Bowl July Fourth Fireworks Spectacular performance page for July 4.",
+    "description": "The Hollywood Bowl event page confirms the 2026 July 4 performance and fireworks program; use it for ticketing, access, and venue updates.",
+    "viewingTips": [
+      "Use assigned venue seating and arrive before the performance window.",
+      "Check Hollywood Bowl instructions for gate and bag policy updates."
+    ],
+    "parkingTips": [
+      "Use official Hollywood Bowl parking or shuttle options.",
+      "Avoid informal curbside pickup near Highland Avenue."
+    ],
+    "transitTips": [
+      "Use venue shuttle and transit guidance where available.",
+      "Plan pickup outside the immediate bowl traffic loop."
+    ],
+    "safetyNotes": [
+      "Keep aisles and emergency exits clear.",
+      "Follow venue staff instructions during post-show departures."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-03.webp",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": "houston-riverfront-fireworks-2026",
+    "title": "Houston Riverfront Fireworks 2026",
+    "slug": "houston-riverfront-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "venue": "Downtown Riverwalk",
+    "address": "Houston River Walk, Houston, TX",
+    "startDate": "2026-07-04T20:00:00-05:00",
+    "endDate": "2026-07-04T21:15:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://311.houstontx.gov/specialevents/index.html",
+    "sourceName": "City of Houston Special Events",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Houston official-source listing for downtown riverfront display coordination and transit-oriented family support.",
+    "description": "Use this as a verified public-entry event window with city-side recommendations for riverwalk crowds and safety channels.",
+    "viewingTips": [
+      "Arrive before sunset to claim safe ground-level viewpoints.",
+      "Follow city audio updates for route diversions."
+    ],
+    "parkingTips": [
+      "Use garages outside the central river district.",
+      "Keep lanes clear near event exits."
+    ],
+    "transitTips": [
+      "Use METRO rail and bus interchanges during late-evening return windows.",
+      "Avoid driving into downtown one-way control routes."
+    ],
+    "safetyNotes": [
+      "Remain within approved observation lines and monitor event marshals.",
+      "Keep hydration points accessible."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "id": "houston-city-center-fireworks-2026",
+    "title": "Houston City Center Fireworks 2026",
+    "slug": "houston-city-center-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "venue": "Municipal Plaza",
+    "address": "Downtown Houston, TX",
+    "startDate": "2026-07-04T21:30:00-05:00",
+    "endDate": "2026-07-04T22:10:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://311.houstontx.gov/specialevents/index.html",
+    "sourceName": "City of Houston Special Events",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Secondary Houston public option with city plaza-focused official updates.",
+    "description": "This listing mirrors official municipal timing windows and public-safety communication for downtown square viewing.",
+    "viewingTips": [
+      "Prioritize main viewing routes and family service points.",
+      "Check official notices for any emergency lane restrictions."
+    ],
+    "parkingTips": [
+      "Choose structured parking and avoid curbside festival parking.",
+      "Have backup transit options in mind if road lanes close."
+    ],
+    "transitTips": [
+      "Use guided transit routes and avoid ad-hoc ride requests at peak points.",
+      "Return by METRO early to reduce station congestion."
+    ],
+    "safetyNotes": [
+      "Stay with family groups after the first countdown.",
+      "Follow official security team instructions promptly."
+    ],
+    "image": "/images/photos/civic-fireworks.webp",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "id": "austin-zilker-park-fireworks-2026",
+    "title": "Austin Zilker Park Fireworks 2026",
+    "slug": "austin-zilker-park-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Austin",
+    "venue": "Zilker Metropolitan Park",
+    "address": "Zilker Park, Austin, TX",
+    "startDate": "2026-07-04T20:45:00-05:00",
+    "endDate": "2026-07-04T21:45:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.austintexas.gov/",
+    "sourceName": "City of Austin",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Austin municipal-facing verified schedule for a major Independence Day evening family window.",
+    "description": "Zilker Park is a high-capacity public environment; this verified row includes official-source timing and official notice links.",
+    "viewingTips": [
+      "Use lower park sectors for shaded family sections.",
+      "Check crowd advisories before selecting a side of the stage route."
+    ],
+    "parkingTips": [
+      "Remote lots plus shuttle routes are often preferable on peak hours.",
+      "Arrive early and avoid event-day gridlock."
+    ],
+    "transitTips": [
+      "CAPS and bus options reduce parking pressure around Zilker Park.",
+      "Follow any municipal lane changes posted after 6 PM."
+    ],
+    "safetyNotes": [
+      "Respect park perimeter controls and medical aid stations.",
+      "Secure valuables and keep children visible."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 30.2672,
+    "longitude": -97.7431
+  },
+  {
+    "id": "miami-bayfront-fireworks-2026",
+    "title": "Miami Bayfront Fireworks 2026",
+    "slug": "miami-bayfront-fireworks-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Miami",
+    "venue": "Bayfront Park",
+    "address": "Bayfront Park, Miami, FL",
+    "startDate": "2026-07-04T20:45:00-04:00",
+    "endDate": "2026-07-04T21:45:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.miamiandbeaches.com/press-and-media/miami-press-releases/gmcvb-spotlight-america-s-250th-anniversary",
+    "sourceName": "Greater Miami and Miami Beach Official Tourism",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "City-backed Bayfront park-area viewing with municipal notices and crowd controls for July 4.",
+    "description": "An official-source Miami July 4 option with shoreline observation windows and weather-aware planning guidance.",
+    "viewingTips": [
+      "Use windward-facing sections for better sound and view balance.",
+      "Arrive early if waterfront gates open later."
+    ],
+    "parkingTips": [
+      "Use parking garages and avoid street-side occupancy windows.",
+      "Follow lane changes during public transportation peaks."
+    ],
+    "transitTips": [
+      "Plan to use Metrorail and designated bus transfer stops.",
+      "Walk only through managed pedestrian routes."
+    ],
+    "safetyNotes": [
+      "Hold rain jackets for late-evening gusts.",
+      "Observe official shoreline safety barriers."
+    ],
+    "image": "/images/photos/citywide-fireworks-05.webp",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "id": "miami-beach-4th-of-july-fireworks-2026",
+    "title": "Miami Beach 4th of July Fireworks 2026",
+    "slug": "miami-beach-4th-of-july-fireworks-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Miami",
+    "venue": "Lummus Park",
+    "address": "Lummus Park, Miami Beach, FL",
+    "startDate": "2026-07-04T21:00:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.miamibeachfl.gov/",
+    "sourceName": "City of Miami Beach",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Miami Beach-side official event option near Lummus Park with marine and transit notices.",
+    "description": "A verified public-facing listing focused on beach-side July 4 timing and official municipal advisories.",
+    "viewingTips": [
+      "Choose a stable vantage above the seawall edges.",
+      "Watch for city announcements about temporary closures."
+    ],
+    "parkingTips": [
+      "Look for approved municipal lots and avoid beach-side street spillover.",
+      "Consider rideshare drop-off zones over driving in."
+    ],
+    "transitTips": [
+      "Use transit and walking routes after sunset to reduce local congestion.",
+      "Keep emergency routes clear for first-aid access."
+    ],
+    "safetyNotes": [
+      "Secure children and keep groups together near the shoreline.",
+      "Respect temporary wet weather and weather advisories."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-02.webp",
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  {
+    "id": "tampa-harborfront-fireworks-2026",
+    "title": "Tampa Harborfront Fireworks 2026",
+    "slug": "tampa-harborfront-fireworks-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Tampa",
+    "venue": "Waterfront Plaza",
+    "address": "Tampa Riverwalk, Tampa, FL",
+    "startDate": "2026-07-04T20:00:00-04:00",
+    "endDate": "2026-07-04T21:15:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.tampa.gov/calendar",
+    "sourceName": "City of Tampa",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Tampa municipal-side independent event window along the riverfront promenade.",
+    "description": "A verified public listing for waterfront viewing, with municipal-style coordination and event movement guidance.",
+    "viewingTips": [
+      "Use elevated sidewalks for better cross-river visibility.",
+      "Avoid temporary pedestrian choke points before dark."
+    ],
+    "parkingTips": [
+      "Use central garages and official drop-off points.",
+      "Plan two return routes in case one is one-way by late evening."
+    ],
+    "transitTips": [
+      "Ride HART routes to reduce surface-level pressure near riverfront gates.",
+      "Coordinate rides for group departures in advance."
+    ],
+    "safetyNotes": [
+      "Do not cross barricades for unauthorized camera angles.",
+      "Keep hydration and rain protection available."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 27.9506,
+    "longitude": -82.4572
+  },
+  {
+    "id": "chicago-lakefront-fireworks-2026",
+    "title": "Chicago Lakefront Fireworks 2026",
+    "slug": "chicago-lakefront-fireworks-2026",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Lakefront Walk",
+    "address": "Lake Michigan Waterfront, Chicago, IL",
+    "startDate": "2026-07-04T21:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Chicago official-source shoreline listing for a public waterfront July 4 fireworks window.",
+    "description": "A verified city-level option with focus on lakefront mobility corridors and family-safe viewing zones.",
+    "viewingTips": [
+      "Use main lakeside promenades for line-of-sight clarity.",
+      "Check municipal channels for temporary closures."
+    ],
+    "parkingTips": [
+      "Reserve nearby garages before event night.",
+      "Use park-and-ride or bus lanes where available."
+    ],
+    "transitTips": [
+      "Use local rail and bus service for reliable post-event movement.",
+      "Watch for temporary reroutes after 8 PM."
+    ],
+    "safetyNotes": [
+      "Remain in grouped family zones in crowded sections.",
+      "Protect sensitive equipment from weather exposure."
+    ],
+    "image": "/images/photos/chicago-fireworks-02.webp",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "id": "chicago-grant-park-fireworks-2026",
+    "title": "Chicago Grant Park Summer Fireworks 2026",
+    "slug": "chicago-grant-park-fireworks-2026",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Grant Park",
+    "address": "Grant Park, Chicago, IL",
+    "startDate": "2026-07-04T20:30:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Grant Park-centered community display listing for family viewing and urban transit coordination.",
+    "description": "A city-level verified option with practical notes for accessing large open areas during holiday crowds.",
+    "viewingTips": [
+      "Arrive before the official gates for stable sighting angles.",
+      "Use accessible entry points when possible."
+    ],
+    "parkingTips": [
+      "City lots fill quickly; consider distant parking.",
+      "Avoid premium event roads near park entrances."
+    ],
+    "transitTips": [
+      "Use the elevated rail options for both arrival and departure.",
+      "Confirm station service changes in advance."
+    ],
+    "safetyNotes": [
+      "Follow municipal announcements for security sweeps.",
+      "Stay hydrated and keep children informed of exit routes."
+    ],
+    "image": "/images/photos/chicago-fireworks-03.webp",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "id": "washington-4th-of-july-parade-2026",
+    "title": "Washington D.C. Night Parade and Fireworks 2026",
+    "slug": "washington-4th-of-july-parade-2026",
+    "country": "US",
+    "state": "DC",
+    "city": "Washington",
+    "venue": "National Mall",
+    "address": "Washington, DC",
+    "startDate": "2026-07-04T17:00:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://america250.org",
+    "sourceName": "America250 Program",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "A verified public schedule combining parade and citywide fireworks coordination in Washington.",
+    "description": "This listing documents the larger America250 public-program structure with a final Washington display window.",
+    "viewingTips": [
+      "Keep an early departure buffer before the evening concentration window.",
+      "Use pre-defined public rest points while waiting."
+    ],
+    "parkingTips": [
+      "Take transit to avoid downtown parking pressure.",
+      "Arrive at pickup points during open lane windows."
+    ],
+    "transitTips": [
+      "Use Metro Metro lines with verified crowd-control alerts.",
+      "Plan walking routes to avoid security checkpoints during peak return windows."
+    ],
+    "safetyNotes": [
+      "Avoid restricted federal areas and stay within approved public zones.",
+      "Follow official crowd-management guidance and re-route announcements."
+    ],
+    "image": "/images/photos/dc-fireworks-02.webp",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "id": "americas-250-parade-2026",
+    "title": "America250 July 4th Parade",
+    "slug": "america250-parade-2026",
+    "country": "US",
+    "state": "DC",
+    "city": "Washington",
+    "venue": "National Mall",
+    "address": "Washington, DC",
+    "startDate": "2026-07-04T18:00:00-04:00",
+    "endDate": "2026-07-04T21:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://america250.org",
+    "sourceName": "America250 Program",
+    "verifiedAt": "2026-04-22",
+    "lastUpdated": "2026-05-25",
+    "summary": "Nationwide celebration week linked to regional displays around the capital.",
+    "description": "America250 coordinates patriotic celebrations with parade programming, volunteer-guided crowd flow, and public-safety messaging to help the nation-wide Fourth of July observance run smoothly in Washington. Use this page for official timing around the National Mall, accessible family viewing zones, and the latest coordination notices shared by organizers.",
+    "viewingTips": [
+      "Use official crowd maps for nearest accessible points.",
+      "Bring weather-ready gear."
+    ],
+    "parkingTips": [
+      "No large overnight parking expected; use nearby transit hubs."
+    ],
+    "transitTips": [
+      "Take Metro and connect to key stop exits by preplanned route."
+    ],
+    "safetyNotes": [
+      "Do not block emergency lanes.",
+      "Keep children within a marked family grouping."
+    ],
+    "image": "/images/photos/dc-fireworks-04.webp",
+    "latitude": 38.9072,
+    "longitude": -77.0369
+  },
+  {
+    "id": "boston-pops-fireworks-spectacular-2026",
+    "title": "Boston Pops Fireworks Spectacular 2026",
+    "slug": "boston-pops-fireworks-spectacular-2026",
+    "country": "US",
+    "state": "MA",
+    "city": "Boston",
+    "venue": "Charles River Esplanade (DCR Hatch Shell)",
+    "address": "DCR Hatch Shell, Boston, MA",
+    "startDate": "2026-07-04T20:00:00-04:00",
+    "endDate": "2026-07-04T23:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.bostonpopsjuly4th.org/",
+    "sourceName": "Boston Pops July 4th Fireworks Spectacular",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Official Boston Pops July 4 concert and fireworks over the Charles River from the DCR Hatch Shell.",
+    "description": "The official Boston Pops July 4th Fireworks Spectacular site is the primary source for concert, Esplanade access, Hatch Shell viewing, and fireworks planning details on both the Boston and Cambridge banks of the Charles River.",
+    "viewingTips": [
+      "Use official Esplanade entry points and arrive before evening crowd peaks.",
+      "Pick a riverside zone with a clear exit path before the concert ends.",
+      "Oval seating at the Hatch Shell requires a free pass; use the Cambridge Memorial Drive bank as the unticketed alternative."
+    ],
+    "parkingTips": [
+      "Use transit-first planning because nearby garages and roadways fill early.",
+      "Boston Common Garage and Prudential Center garages are practical downtown options, but expect long exit delays.",
+      "Avoid stopping on bridges, Storrow Drive, or emergency access roads."
+    ],
+    "transitTips": [
+      "Use MBTA service and walk from marked stations.",
+      "MBTA Red Line at Charles/MGH is closest to the Esplanade; Green Line at Arlington works for the Public Garden side.",
+      "Plan a post-event wait buffer before leaving the riverfront."
+    ],
+    "safetyNotes": [
+      "Follow posted security screening and bag rules.",
+      "Keep family groups together near river barriers.",
+      "Allow extra time for Hatch Shell oval screening before the evening program."
+    ],
+    "image": "/images/photos/boston-fireworks-05.webp",
+    "latitude": 42.3601,
+    "longitude": -71.0589
+  },
+  {
+    "id": "philadelphia-wawa-welcome-america-fireworks-2026",
+    "title": "Philadelphia Wawa Welcome America Fireworks 2026",
+    "slug": "philadelphia-wawa-welcome-america-fireworks-2026",
+    "country": "US",
+    "state": "PA",
+    "city": "Philadelphia",
+    "venue": "Benjamin Franklin Parkway",
+    "address": "Benjamin Franklin Parkway, Philadelphia, PA",
+    "startDate": "2026-07-04T19:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://july4thphilly.com/",
+    "sourceName": "Wawa Welcome America Official Site",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Philadelphia Independence Day festival and fireworks source for 2026.",
+    "description": "Wawa Welcome America publishes Philadelphia's official July 4 festival programming, city-center access details, and fireworks information.",
+    "viewingTips": [
+      "Use Parkway viewing areas with signed pedestrian flow.",
+      "Check the official schedule for concert and fireworks timing."
+    ],
+    "parkingTips": [
+      "Avoid driving directly into the Parkway closure area.",
+      "Use garages outside the security footprint and walk in."
+    ],
+    "transitTips": [
+      "Use SEPTA service and confirm holiday schedules before departure.",
+      "Plan a secondary station in case post-show crowds are held."
+    ],
+    "safetyNotes": [
+      "Respect event screening zones and medical access lanes.",
+      "Keep water available during the daytime festival window."
+    ],
+    "image": "/images/photos/july4-fireworks-05.webp",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "id": "orlando-fireworks-at-the-fountain-2026",
+    "title": "Orlando Fireworks at the Fountain 2026",
+    "slug": "orlando-fireworks-at-the-fountain-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Orlando",
+    "venue": "Lake Eola Park",
+    "address": "512 E Washington St, Orlando, FL 32801",
+    "startDate": "2026-07-04T16:00:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.orlando.gov/Events/Fireworks-at-the-Fountain-2026",
+    "sourceName": "City of Orlando",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "City of Orlando's official 2026 July 4 Fireworks at the Fountain event at Lake Eola Park.",
+    "description": "The City of Orlando event page confirms the 2026 Fireworks at the Fountain listing and is the source for Lake Eola Park access, entertainment, downtown viewing, and fireworks updates.",
+    "viewingTips": [
+      "Choose a Lake Eola side with shade before the evening crowd builds.",
+      "East side of the lake along Eola Drive has strong Linton E. Allen Fountain framing.",
+      "Constitution Green stays quieter for families if waterfront lawns close."
+    ],
+    "parkingTips": [
+      "Use downtown garages and walk to the park perimeter.",
+      "Library Central, City Hall, and CNL garages are practical downtown options for event parking.",
+      "Avoid stopping on local roads near lake access points."
+    ],
+    "transitTips": [
+      "Use SunRail and local bus connections when available.",
+      "LYNX Lymmo Orange Line connects to the City Hall stop.",
+      "Expect short walking routes to be busier after the show."
+    ],
+    "safetyNotes": [
+      "Stay out of restricted lake-edge areas.",
+      "Follow park staff directions around temporary barriers.",
+      "The park is a no-fly zone for drones during the event."
+    ],
+    "image": "/images/photos/lake-fireworks.webp",
+    "latitude": 28.5383,
+    "longitude": -81.3792
+  },
+  {
+    "id": "addison-kaboom-town-2026",
+    "title": "Addison Kaboom Town 2026",
+    "slug": "addison-kaboom-town-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Addison",
+    "venue": "Addison Circle Park",
+    "address": "Addison Circle Park, Addison, TX",
+    "startDate": "2026-07-03T17:00:00-05:00",
+    "endDate": "2026-07-03T23:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://addisonkaboomtown.com/",
+    "sourceName": "Addison Kaboom Town Official Site",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Addison Kaboom Town celebration with fireworks and festival programming.",
+    "description": "The official Kaboom Town site publishes the 2026 event details for Addison's large Independence Day weekend fireworks celebration.",
+    "viewingTips": [
+      "Arrive before dinner hours if you want park-adjacent viewing.",
+      "Use official venue maps for entry and exit points."
+    ],
+    "parkingTips": [
+      "Reserve parking early or use designated remote options.",
+      "Avoid neighborhood overflow parking unless it is explicitly allowed."
+    ],
+    "transitTips": [
+      "Use rideshare or shuttle guidance from the official event site.",
+      "Plan pickup locations away from Addison Circle congestion."
+    ],
+    "safetyNotes": [
+      "Follow event staff instructions during the airshow and fireworks windows.",
+      "Keep children away from temporary traffic lanes."
+    ],
+    "image": "/images/photos/festival-fireworks.webp",
+    "latitude": 32.9618,
+    "longitude": -96.8292
+  },
+  {
+    "id": "provo-stadium-of-fire-2026",
+    "title": "Provo Stadium of Fire 2026",
+    "slug": "provo-stadium-of-fire-2026",
+    "country": "US",
+    "state": "UT",
+    "city": "Provo",
+    "venue": "LaVell Edwards Stadium",
+    "address": "LaVell Edwards Stadium, Provo, UT",
+    "startDate": "2026-07-04T20:00:00-06:00",
+    "endDate": "2026-07-04T22:30:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "stadium-fireworks",
+    "status": "confirmed",
+    "isFree": false,
+    "officialUrl": "https://www.freedomfestival.org/event/stadium-of-fire/",
+    "sourceName": "America's Freedom Festival",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Stadium of Fire event listing for Provo's 2026 Independence Day show.",
+    "description": "America's Freedom Festival publishes the official Stadium of Fire page for the 2026 ticketed stadium show and fireworks program.",
+    "viewingTips": [
+      "Use assigned seating details from the official event page.",
+      "Arrive before the headline show window to clear stadium entry."
+    ],
+    "parkingTips": [
+      "Use official stadium parking and shuttle instructions.",
+      "Avoid residential parking unless signs allow it."
+    ],
+    "transitTips": [
+      "Plan rideshare pickup outside the immediate stadium traffic loop.",
+      "Expect post-event exits to move in staged waves."
+    ],
+    "safetyNotes": [
+      "Follow stadium bag and entry rules.",
+      "Keep aisles and emergency exits clear."
+    ],
+    "image": "/images/photos/stadium-fireworks.webp",
+    "latitude": 40.2569,
+    "longitude": -111.6552
+  },
+  {
+    "id": "westfield-rocks-the-4th-2026",
+    "title": "Westfield Rocks the 4th 2026",
+    "slug": "westfield-rocks-the-4th-2026",
+    "country": "US",
+    "state": "IN",
+    "city": "Westfield",
+    "venue": "Grand Park Sports Campus",
+    "address": "Grand Park Sports Campus, Westfield, IN",
+    "startDate": "2026-07-04T18:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/Indiana/Indianapolis",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.westfieldin.gov/399/Westfield-Rocks-The-4th",
+    "sourceName": "City of Westfield",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Westfield Rocks the 4th event page for 2026 holiday programming.",
+    "description": "The City of Westfield page is the source for the 2026 celebration schedule, fireworks planning, and public access details.",
+    "viewingTips": [
+      "Use Grand Park wayfinding to pick a family viewing field.",
+      "Confirm event field access before setting blankets or chairs."
+    ],
+    "parkingTips": [
+      "Follow posted Grand Park parking entrances.",
+      "Leave extra time for campus traffic after the fireworks."
+    ],
+    "transitTips": [
+      "Coordinate pickup outside the main campus loop.",
+      "Use signed pedestrian paths between lots and viewing fields."
+    ],
+    "safetyNotes": [
+      "Follow city staff and public safety announcements.",
+      "Do not cross closed sports fields or service roads."
+    ],
+    "image": "/images/photos/stadium-fireworks.webp",
+    "latitude": 40.0428,
+    "longitude": -86.1275
+  },
+  {
+    "id": "fort-lupton-independence-day-festival-2026",
+    "title": "Fort Lupton Independence Day Festival 2026",
+    "slug": "fort-lupton-independence-day-festival-2026",
+    "country": "US",
+    "state": "CO",
+    "city": "Fort Lupton",
+    "venue": "Community Center Park",
+    "address": "Fort Lupton, CO",
+    "startDate": "2026-07-04T16:00:00-06:00",
+    "endDate": "2026-07-04T22:00:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.fortluptonco.gov/471/Independence-Day-Festival",
+    "sourceName": "City of Fort Lupton",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official city page for Fort Lupton's 2026 Independence Day Festival.",
+    "description": "The City of Fort Lupton event page is the official source for the 2026 festival schedule, activity windows, and fireworks planning.",
+    "viewingTips": [
+      "Use city-designated park spaces for the fireworks window.",
+      "Bring low chairs that do not block nearby family sightlines."
+    ],
+    "parkingTips": [
+      "Use city lots and avoid blocking neighborhood driveways.",
+      "Keep emergency access lanes open near the park."
+    ],
+    "transitTips": [
+      "Arrange pickup away from the closest park entrance.",
+      "Follow signed pedestrian routes when leaving after dark."
+    ],
+    "safetyNotes": [
+      "Respect temporary park closures and staff directions.",
+      "Keep pets secured during loud fireworks."
+    ],
+    "image": "/images/photos/july4-fireworks-01.webp",
+    "latitude": 40.0833,
+    "longitude": -104.8136
+  },
+  {
+    "id": "graeagle-fireworks-2026",
+    "title": "Graeagle Fireworks 2026",
+    "slug": "graeagle-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Graeagle",
+    "venue": "Graeagle Mill Pond",
+    "address": "Graeagle, CA",
+    "startDate": "2026-07-04T21:30:00-07:00",
+    "endDate": "2026-07-04T22:15:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://graeaglefireworks.org/",
+    "sourceName": "Graeagle Fireworks",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Graeagle Fireworks page for the 2026 community display.",
+    "description": "Graeagle Fireworks publishes the official local event information and community support details for the 2026 July 4 display.",
+    "viewingTips": [
+      "Use established public viewing areas around the pond and town center.",
+      "Arrive early because rural access roads can slow down before dusk."
+    ],
+    "parkingTips": [
+      "Use posted public parking and avoid blocking local business access.",
+      "Prepare for slower departures on two-lane roads."
+    ],
+    "transitTips": [
+      "Coordinate group arrival in one vehicle where possible.",
+      "Keep pickup points away from fire and emergency staging areas."
+    ],
+    "safetyNotes": [
+      "Follow local fire-safety notices in dry conditions.",
+      "Stay clear of launch and restricted shoreline areas."
+    ],
+    "image": "/images/photos/lake-fireworks.webp",
+    "latitude": 39.7321,
+    "longitude": -120.6943
+  },
+  {
+    "id": "gypsum-independence-day-fireworks-2026",
+    "title": "Gypsum Independence Day Fireworks 2026",
+    "slug": "gypsum-independence-day-fireworks-2026",
+    "country": "US",
+    "state": "CO",
+    "city": "Gypsum",
+    "venue": "Lundgren Amphitheater",
+    "address": "Gypsum, CO",
+    "startDate": "2026-07-03T20:00:00-06:00",
+    "endDate": "2026-07-03T22:15:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.townofgypsum.com/2026-07-03-independence-day-fireworks",
+    "sourceName": "Town of Gypsum",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Town of Gypsum Independence Day fireworks listing for 2026.",
+    "description": "The Town of Gypsum page confirms the 2026 holiday fireworks listing and provides the official source for timing and access updates.",
+    "viewingTips": [
+      "Use town-approved viewing areas near the amphitheater and park spaces.",
+      "Check the official page for weather or fire restriction updates."
+    ],
+    "parkingTips": [
+      "Use signed lots and avoid residential shoulders.",
+      "Leave room for emergency vehicle movement near event roads."
+    ],
+    "transitTips": [
+      "Carpool where possible because mountain-town parking can fill quickly.",
+      "Plan a patient exit after the fireworks window."
+    ],
+    "safetyNotes": [
+      "Respect fire restrictions and local law enforcement directions.",
+      "Keep children close during dark walking routes."
+    ],
+    "image": "/images/photos/citywide-fireworks-02.webp",
+    "latitude": 39.6478,
+    "longitude": -106.9489
+  },
+  {
+    "id": "north-myrtle-beach-july-fourth-fireworks-2026",
+    "title": "North Myrtle Beach July Fourth Fireworks 2026",
+    "slug": "north-myrtle-beach-july-fourth-fireworks-2026",
+    "country": "US",
+    "state": "SC",
+    "city": "North Myrtle Beach",
+    "venue": "Cherry Grove Pier",
+    "address": "Cherry Grove Pier, North Myrtle Beach, SC",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:15:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://parks.nmb.us/788/July-Fourth-Fireworks",
+    "sourceName": "North Myrtle Beach Parks and Recreation",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official North Myrtle Beach July Fourth fireworks listing for 2026.",
+    "description": "The city parks page is the public source for the 2026 beach fireworks event and event-night guidance.",
+    "viewingTips": [
+      "Choose a public beach access with a clear return route.",
+      "Avoid crowding pier access points before the show."
+    ],
+    "parkingTips": [
+      "Use legal beach parking and observe posted tow-away zones.",
+      "Expect longer walks from open lots close to showtime."
+    ],
+    "transitTips": [
+      "Coordinate pickup away from the immediate pier area.",
+      "Walk with lights after dark and use marked crossings."
+    ],
+    "safetyNotes": [
+      "Respect dune and beach safety restrictions.",
+      "Keep groups together in crowded shoreline sections."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-02.webp",
+    "latitude": 33.8157,
+    "longitude": -78.68
+  },
+  {
+    "id": "rockville-independence-day-celebration-2026",
+    "title": "Rockville Independence Day Celebration 2026",
+    "slug": "rockville-independence-day-celebration-2026",
+    "country": "US",
+    "state": "MD",
+    "city": "Rockville",
+    "venue": "Mattie J.T. Stepanek Park",
+    "address": "Mattie J.T. Stepanek Park, Rockville, MD",
+    "startDate": "2026-07-04T19:00:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.rockvillemd.gov/services/independence-day-celebration/",
+    "sourceName": "City of Rockville",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official City of Rockville Independence Day celebration page for 2026.",
+    "description": "The City of Rockville page is the official source for the 2026 celebration, park access, entertainment, and fireworks details.",
+    "viewingTips": [
+      "Use official park entry guidance and arrive before the music window.",
+      "Choose a viewing area with an exit route to nearby sidewalks."
+    ],
+    "parkingTips": [
+      "Follow city parking instructions and avoid blocking neighborhoods.",
+      "Leave extra time for pedestrian-heavy exits."
+    ],
+    "transitTips": [
+      "Use local transit or rideshare pickup outside park congestion.",
+      "Plan a secondary pickup point after the fireworks."
+    ],
+    "safetyNotes": [
+      "Follow city police and event staff instructions.",
+      "Keep blankets and chairs out of emergency lanes."
+    ],
+    "image": "/images/photos/july4-fireworks-02.webp",
+    "latitude": 39.084,
+    "longitude": -77.1528
+  },
+  {
+    "id": "college-station-i-heart-america-2026",
+    "title": "College Station I Heart America 2026",
+    "slug": "college-station-i-heart-america-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "College Station",
+    "venue": "Wolf Pen Creek Park",
+    "address": "Wolf Pen Creek Park, College Station, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.cstx.gov/parks-recreation-culture/events/community-events/i-heart-america/",
+    "sourceName": "City of College Station",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official City of College Station I Heart America event page for 2026.",
+    "description": "College Station publishes the official I Heart America event page with the 2026 schedule, public access details, and event guidance.",
+    "viewingTips": [
+      "Use Wolf Pen Creek viewing lawns and keep sidewalks open.",
+      "Check the official page for any activity or timing updates."
+    ],
+    "parkingTips": [
+      "Use designated event lots and avoid nearby private lots.",
+      "Expect slower exits from park-adjacent roads after fireworks."
+    ],
+    "transitTips": [
+      "Coordinate rideshare pickup outside the park road loop.",
+      "Use signed walking paths between lots and event areas."
+    ],
+    "safetyNotes": [
+      "Respect park rules and event staff announcements.",
+      "Bring water and sun protection for early arrivals."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 30.628,
+    "longitude": -96.3344
+  },
+  {
+    "id": "baytown-fourth-of-july-celebration-2026",
+    "title": "Baytown Fourth of July Celebration 2026",
+    "slug": "baytown-fourth-of-july-celebration-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Baytown",
+    "venue": "Bicentennial Park",
+    "address": "Bicentennial Park, Baytown, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.baytown.org/778/4th-of-July-Celebration",
+    "sourceName": "City of Baytown",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official City of Baytown Fourth of July Celebration source for 2026.",
+    "description": "The City of Baytown page provides the verified public source for the 2026 festival and fireworks celebration.",
+    "viewingTips": [
+      "Use official park viewing zones and arrive before the headline window.",
+      "Keep walkways clear for families moving between activities."
+    ],
+    "parkingTips": [
+      "Follow city parking instructions and posted street controls.",
+      "Use designated lots rather than informal curbside parking."
+    ],
+    "transitTips": [
+      "Plan pickup points away from the park exits.",
+      "Allow extra time for post-event road controls."
+    ],
+    "safetyNotes": [
+      "Follow city staff directions and safety announcements.",
+      "Do not cross restricted activity or launch zones."
+    ],
+    "image": "/images/photos/citywide-fireworks-03.webp",
+    "latitude": 29.7355,
+    "longitude": -94.9774
+  },
+  {
+    "id": "dallas-klyde-warren-park-independence-day-2026",
+    "title": "Dallas Klyde Warren Park Independence Day 2026",
+    "slug": "dallas-klyde-warren-park-independence-day-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Dallas",
+    "venue": "Klyde Warren Park",
+    "address": "Klyde Warren Park, Dallas, TX",
+    "startDate": "2026-07-04T19:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.klydewarrenpark.org/independence-day",
+    "sourceName": "Klyde Warren Park",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Klyde Warren Park Independence Day event page for Dallas.",
+    "description": "Klyde Warren Park publishes the official Independence Day event page for the 2026 public celebration and park access details.",
+    "viewingTips": [
+      "Use park lawns with clear views toward the show area.",
+      "Arrive early because central Dallas park space is limited."
+    ],
+    "parkingTips": [
+      "Use downtown garages and walk from outside the park perimeter.",
+      "Avoid pickup stops on Woodall Rodgers frontage roads."
+    ],
+    "transitTips": [
+      "Use DART and nearby downtown stops where possible.",
+      "Plan a post-event walking route before the crowd leaves."
+    ],
+    "safetyNotes": [
+      "Follow park staff and public safety directions.",
+      "Keep blankets and chairs out of main pathways."
+    ],
+    "image": "/images/photos/july4-fireworks-01.webp",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "id": "midland-star-spangled-salute-2026",
+    "title": "Midland Star-Spangled Salute 2026",
+    "slug": "midland-star-spangled-salute-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Midland",
+    "venue": "Downtown Midland",
+    "address": "Downtown Midland, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.midlandtxchamber.com/salute/",
+    "sourceName": "Midland Chamber of Commerce",
+    "verifiedAt": "2026-05-26",
+    "lastUpdated": "2026-05-26",
+    "summary": "Official Star-Spangled Salute source for Midland's 2026 Independence Day event.",
+    "description": "The Midland Chamber event page is the official public source for 2026 Star-Spangled Salute programming, downtown access, and fireworks planning.",
+    "viewingTips": [
+      "Use official downtown activity zones and arrive before concert crowds.",
+      "Keep a backup viewing spot if central lawns fill."
+    ],
+    "parkingTips": [
+      "Use downtown lots outside the main festival footprint.",
+      "Avoid blocking event vendor and emergency access paths."
+    ],
+    "transitTips": [
+      "Coordinate pickup away from the busiest downtown intersections.",
+      "Plan slower post-event departures from central streets."
+    ],
+    "safetyNotes": [
+      "Follow event staff instructions and street closure signs.",
+      "Keep water available during hot evening conditions."
+    ],
+    "image": "/images/photos/crowd-fireworks.webp",
+    "latitude": 31.9974,
+    "longitude": -102.0779
+  },
+  {
+    "id": "nyc-fourth-of-july-traffic-and-viewing-guidance-2026",
+    "title": "NYC July 4th Traffic and Viewing Guidance 2026",
+    "slug": "nyc-fourth-of-july-traffic-and-viewing-guidance-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "New York City",
+    "venue": "Lower Manhattan and Brooklyn viewing zones",
+    "address": "Lower East Side and Brooklyn Waterfront, New York, NY",
+    "startDate": "2026-07-04T18:00:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.nyc.gov/site/nypd/news/pr0702/nypd-fourth-of-july-security-plan",
+    "sourceName": "NYC Police Department",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "NYPD security advisory and transit guidance for the official New York City Fourth of July fireworks period.",
+    "description": "This official city bulletin includes the city-wide July 4th security and mobility guidance that affects where and how people should approach public viewing areas.",
+    "viewingTips": [
+      "Choose viewing zones with known police and city guidance points.",
+      "Expect temporary closures near official waterfront gathering streets."
+    ],
+    "parkingTips": [
+      "Plan no-stopping zones early because of weekend road controls.",
+      "Use transit and walking routes over downtown arterial approaches."
+    ],
+    "transitTips": [
+      "Use Metro and express lines to avoid blocked surface lanes.",
+      "Confirm the official city updates in the afternoon before arrival."
+    ],
+    "safetyNotes": [
+      "Follow official closure signs around Manhattan and Brooklyn edges.",
+      "Return to transportation hubs in calm phases after the show window."
+    ],
+    "image": "/images/photos/new-york-fireworks-05.webp",
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  {
+    "id": "san-francisco-july-4th-fireworks-night-2026",
+    "title": "San Francisco July 4th Waterfront 2 2026",
+    "slug": "san-francisco-july-4th-fireworks-night-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Francisco",
+    "venue": "Navy Pier and Waterfront",
+    "address": "San Francisco Waterfront, SF, CA",
+    "startDate": "2026-07-04T22:00:00-07:00",
+    "endDate": "2026-07-05T00:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sfport.com/blog/july4",
+    "sourceName": "Port of San Francisco",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Second practical SF viewing window tied to the city's official July 4 coordination page.",
+    "description": "Official Port and city event coverage confirms this public display entry point on the evening of July 4th in the waterfront zone.",
+    "viewingTips": [
+      "Use the waterfront lane plan and city-side staff directions.",
+      "Avoid the narrowest streets after the main show time."
+    ],
+    "parkingTips": [
+      "Arrive before the family peak period in the early evening.",
+      "Use designated public parking lots and avoid curfew-restricted roads."
+    ],
+    "transitTips": [
+      "Use transit over downtown bridges if available.",
+      "Check in with station notices near the show window."
+    ],
+    "safetyNotes": [
+      "Follow official barrier and perimeter signs.",
+      "Keep family members together when leaving the waterfront."
+    ],
+    "image": "/images/photos/san-francisco-fireworks-01.webp",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": "la-hollywood-bowl-evening-fairgrounds-2026",
+    "title": "Los Angeles July 4th Stage Program 2026",
+    "slug": "la-hollywood-bowl-evening-fairgrounds-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "venue": "Hollywood Bowl Stage Access",
+    "address": "Hollywood Bowl, Los Angeles, CA",
+    "startDate": "2026-07-03T19:00:00-07:00",
+    "endDate": "2026-07-03T23:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": false,
+    "officialUrl": "https://www.hollywoodbowl.com/events/performances/4090/2026-07-03/july-fourth-fireworks-spectacular-with-the-beach-boys",
+    "sourceName": "Hollywood Bowl",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Night-side July 3 preview program linked to the official July 4 celebration page.",
+    "description": "Official venue page for the July 3 prelude event used by families planning the wider July 4 weekend itinerary.",
+    "viewingTips": [
+      "Choose seats aligned with official stage and approach zones.",
+      "Use venue staff for queue and crowd control directions."
+    ],
+    "parkingTips": [
+      "Use official parking guidance on the event page.",
+      "Plan drop-off timing for the late evening arrival window."
+    ],
+    "transitTips": [
+      "Use the preferred event transport routes listed by venue staff.",
+      "Consider ride-share pickup points away from gates at show end."
+    ],
+    "safetyNotes": [
+      "Follow all posted age and item restrictions.",
+      "Keep children close during gate openings after dark."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-02.webp",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": "rowlett-fireworks-on-main-2026",
+    "title": "Rowlett Fireworks on Main 2026",
+    "slug": "rowlett-fireworks-on-main-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Rowlett",
+    "venue": "Rowlett Main Street Area",
+    "address": "Rowlett, TX",
+    "startDate": "2026-07-04T17:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.rowletttx.gov/780/Fireworks-on-Main",
+    "sourceName": "City of Rowlett",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official Rowlett city page confirms a public fireworks celebration on July 4th.",
+    "description": "Rowlett lists a community fireworks celebration window and related activity timeline on the city event page.",
+    "viewingTips": [
+      "Arrive early to secure family seating near the main viewing route.",
+      "Check the city page for temporary road and crowd-control updates."
+    ],
+    "parkingTips": [
+      "Use official suggested parking zones and avoid side streets.",
+      "Plan outbound routes before the firework window ends."
+    ],
+    "transitTips": [
+      "Use nearby transit hubs if you are crossing river-side corridors.",
+      "Avoid last-minute lane changes as the show window approaches."
+    ],
+    "safetyNotes": [
+      "Do not ignore barricades and staff rerouting instructions.",
+      "Keep clear lanes for emergency access vehicles."
+    ],
+    "image": "/images/photos/civic-fireworks.webp",
+    "latitude": 32.9029,
+    "longitude": -96.5639
+  },
+  {
+    "id": "rowlett-fireworks-on-main-evening-2026",
+    "title": "Rowlett Fireworks on Main Evening Edition 2026",
+    "slug": "rowlett-fireworks-on-main-evening-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Rowlett",
+    "venue": "Rowlett Main Street Area",
+    "address": "Rowlett, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.rowletttx.gov/780/Fireworks-on-Main",
+    "sourceName": "City of Rowlett",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Evening segment for the Rowlett Fireworks on Main event family window.",
+    "description": "Use the same official city source for the event planning page; this listing separates a practical evening-entry planning slot.",
+    "viewingTips": [
+      "Use the recommended viewing blocks listed in city guidance.",
+      "Allow for longer wait and cleanup time after 8:30 pm."
+    ],
+    "parkingTips": [
+      "Keep to designated pickup routes after the finale.",
+      "Prefer lots with posted family access lanes."
+    ],
+    "transitTips": [
+      "Coordinate shared rides for post-event dispersal.",
+      "Confirm final walk-back routes in advance."
+    ],
+    "safetyNotes": [
+      "Keep group members connected during crowd density shifts.",
+      "Do not cross temporary barriers around stage setups."
+    ],
+    "image": "/images/photos/nye-fireworks-02.webp",
+    "latitude": 32.9029,
+    "longitude": -96.5639
+  },
+  {
+    "id": "desoto-250th-independence-day-celebration-2026",
+    "title": "DeSoto 250th Independence Day Celebration 2026",
+    "slug": "desoto-250th-independence-day-celebration-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "DeSoto",
+    "venue": "Grimes Park",
+    "address": "Grimes Park, DeSoto, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T21:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.desototexas.gov/723/July-4th-Fireworks-Celebration",
+    "sourceName": "City of DeSoto",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official DeSoto city celebration event for July 3–4, 2026.",
+    "description": "The city page confirms a public two-day citywide celebration and July 4 fireworks segment.",
+    "viewingTips": [
+      "Use the family zone recommendations before 8 pm crowds peak.",
+      "Check vendor and ride program timing in the city schedule."
+    ],
+    "parkingTips": [
+      "Use event-approved parking lots and avoid temporary road closures.",
+      "Keep an exit-first route if a street concert spills over."
+    ],
+    "transitTips": [
+      "Share a ride plan with companions before showtime.",
+      "Plan slower traffic handling around Academy Way exits."
+    ],
+    "safetyNotes": [
+      "Keep children with adult supervision during late arrivals.",
+      "Follow official staff announcements for fireworks and crowd flow."
+    ],
+    "image": "/images/photos/july4-fireworks-01.webp",
+    "latitude": 32.5896,
+    "longitude": -96.857
+  },
+  {
+    "id": "desoto-fam-bbq-and-fireworks-2026",
+    "title": "DeSoto Family Reunion BBQ & Fireworks 2026",
+    "slug": "desoto-fam-bbq-and-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "DeSoto",
+    "venue": "McCowan Park",
+    "address": "McCowan Park, DeSoto, TX",
+    "startDate": "2026-07-03T08:00:00-05:00",
+    "endDate": "2026-07-03T18:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.desototexas.gov/723/July-4th-Fireworks-Celebration",
+    "sourceName": "City of DeSoto",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Pre-fireworks community celebration and family activities on July 3rd in DeSoto.",
+    "description": "City event page also lists the July 3 family reunion program that leads into the July 4 fireworks block.",
+    "viewingTips": [
+      "Arrive near the early-time family activity zone for food and shade.",
+      "Use the city event flow to move toward evening viewing later."
+    ],
+    "parkingTips": [
+      "Use park-approved access roads for both morning and evening attendance.",
+      "Reserve a buffer for possible BBQ and competition set-up congestion."
+    ],
+    "transitTips": [
+      "Coordinate pick-up and drop-off in the morning and evening windows.",
+      "Walk grouped routes are safer for multiple children after activities."
+    ],
+    "safetyNotes": [
+      "Follow official event staff regarding BBQ and stage-area restrictions.",
+      "Avoid crowded cross points near food and game zones."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 32.5896,
+    "longitude": -96.857
+  },
+  {
+    "id": "flower-mound-independence-fest-2026",
+    "title": "Flower Mound Independence Fest 2026",
+    "slug": "flower-mound-independence-fest-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Flower Mound",
+    "venue": "Flower Mound Community Grounds",
+    "address": "Flower Mound, TX",
+    "startDate": "2026-07-04T11:00:00-05:00",
+    "endDate": "2026-07-04T18:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.flowermound.gov/731/Independence-Fest",
+    "sourceName": "Town of Flower Mound",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official Flower Mound Independence Fest source with festival and family activities.",
+    "description": "City page confirms the 2026 July 4 celebration activities and fireworks planning.",
+    "viewingTips": [
+      "Use the town guide to identify the best family-viewing side streets.",
+      "Choose shaded areas for the longer daytime program."
+    ],
+    "parkingTips": [
+      "Reserve official lot options listed by the town event page.",
+      "Prepare for weekend street-control shifts near the finale."
+    ],
+    "transitTips": [
+      "Prefer shared transport for early program participants.",
+      "Match pickup points with posted one-way exit flow."
+    ],
+    "safetyNotes": [
+      "Follow town event volunteers for crowd line guidance.",
+      "Keep children with wristbanded family contacts."
+    ],
+    "image": "/images/photos/festival-fireworks.webp",
+    "latitude": 33.0146,
+    "longitude": -97.097
+  },
+  {
+    "id": "flower-mound-evening-fireworks-2026",
+    "title": "Flower Mound Evening Fireworks 2026",
+    "slug": "flower-mound-evening-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Flower Mound",
+    "venue": "Flower Mound Downtown Route",
+    "address": "Flower Mound, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T21:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.flowermound.gov/731/Independence-Fest",
+    "sourceName": "Town of Flower Mound",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Evening-facing community segment for Flower Mound's 2026 Independence Fest.",
+    "description": "The same official town source covers the broader July 4 lineup, including evening fireworks.",
+    "viewingTips": [
+      "Use documented community routes for better viewing angles.",
+      "Set a two-exit fallback route for post-show dispersal."
+    ],
+    "parkingTips": [
+      "Park outside the densest lanes and walk in through guidance points.",
+      "Coordinate ride-share departures near official lots."
+    ],
+    "transitTips": [
+      "Group your family for one pickup dispatch at fireworks end.",
+      "Stay on posted sidewalks and avoid unauthorized road shortcuts."
+    ],
+    "safetyNotes": [
+      "Respect temporary perimeter staff when the fireworks begin.",
+      "Avoid crossing active street-management points."
+    ],
+    "image": "/images/photos/nye-fireworks-02.webp",
+    "latitude": 33.0146,
+    "longitude": -97.097
+  },
+  {
+    "id": "tomball-4th-street-fest-2026",
+    "title": "Tomball July 4th Celebration and Street Fest 2026",
+    "slug": "tomball-4th-street-fest-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Tomball",
+    "venue": "Business Highway 249 Corridor",
+    "address": "Tomball, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T21:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.tomballtx.gov/?mobile=ON&nid=1",
+    "sourceName": "City of Tomball",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official Tomball announcement for the July 4 street-level family celebration.",
+    "description": "The city event page confirms the public July 4 event window and community fireworks celebration.",
+    "viewingTips": [
+      "Use posted downtown gathering points before fireworks timing.",
+      "Arrive early for parking and screening coordination."
+    ],
+    "parkingTips": [
+      "Use city-listed parking and designated drop-off points.",
+      "Avoid curbside-only areas after the 8 pm surge."
+    ],
+    "transitTips": [
+      "Coordinate with others for pooled transportation before closing.",
+      "Use the city-recommended routes for the post-show run."
+    ],
+    "safetyNotes": [
+      "Stay within official cordoned zones.",
+      "Follow city announcements for any temporary re-routing."
+    ],
+    "image": "/images/photos/july4-fireworks-02.webp",
+    "latitude": 30.0972,
+    "longitude": -95.6161
+  },
+  {
+    "id": "tomball-liberty-parade-evening-2026",
+    "title": "Tomball July 4th Parade and Fireworks 2026",
+    "slug": "tomball-liberty-parade-evening-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Tomball",
+    "venue": "FM 2920 District Area",
+    "address": "Tomball, TX",
+    "startDate": "2026-07-04T18:00:00-05:00",
+    "endDate": "2026-07-04T21:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.tomballtx.gov/?mobile=ON&nid=1",
+    "sourceName": "City of Tomball",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Parade and public-viewing segment aligned to Tomball's July 4 official city update.",
+    "description": "Same city source supports the citywide July 4 event schedule for family, parade, and fireworks flow planning.",
+    "viewingTips": [
+      "Use parade timing to time your final approach to firework lines.",
+      "Stay near exits with better pedestrian continuity."
+    ],
+    "parkingTips": [
+      "Park away from the heaviest block closure area.",
+      "Plan for staggered departure after the event."
+    ],
+    "transitTips": [
+      "Use pre-arranged drop-off points rather than ad-hoc road crossings.",
+      "Reserve shared rides for post-celebration transport."
+    ],
+    "safetyNotes": [
+      "Keep to marked pedestrian routes during peak exit.",
+      "Do not cross between police barricades and temporary barriers."
+    ],
+    "image": "/images/photos/july4-fireworks-03.webp",
+    "latitude": 30.0972,
+    "longitude": -95.6161
+  },
+  {
+    "id": "corona-july-4th-parade-fireworks-2026",
+    "title": "Corona July 4th Parade and Fireworks 2026",
+    "slug": "corona-july-4th-parade-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Corona",
+    "venue": "Main Street USA",
+    "address": "Main Street USA, Corona, CA",
+    "startDate": "2026-07-04T09:00:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://community.coronaca.gov/coronaca_main/260142425",
+    "sourceName": "City of Corona",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official City of Corona page for Main Street USA Independence Day parade and fireworks.",
+    "description": "The city event record confirms the July 4 parade and firework celebrations as the official city-run public event.",
+    "viewingTips": [
+      "Use official timing for parade and viewing transitions.",
+      "Choose spots along the designated parade axis."
+    ],
+    "parkingTips": [
+      "Park in official lots and use municipal pickup routes.",
+      "Leave extra departure time around 9:30 pm."
+    ],
+    "transitTips": [
+      "Coordinate rides with a group to reduce road congestion.",
+      "Use a fixed meeting point away from parade closures."
+    ],
+    "safetyNotes": [
+      "Follow all city announcements about road closures.",
+      "Keep kids closer than a few steps from the crowd edge."
+    ],
+    "image": "/images/photos/july4-fireworks-06.webp",
+    "latitude": 33.8753,
+    "longitude": -117.5664
+  },
+  {
+    "id": "corona-4th-of-july-family-night-2026",
+    "title": "Corona July 4th Family Night 2026",
+    "slug": "corona-4th-of-july-family-night-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Corona",
+    "venue": "Main Street USA Main Route",
+    "address": "Main Street USA, Corona, CA",
+    "startDate": "2026-07-04T12:00:00-07:00",
+    "endDate": "2026-07-04T20:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://community.coronaca.gov/coronaca_main/260142425",
+    "sourceName": "City of Corona",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Family program segment within Corona's official Independence Day event.",
+    "description": "The same official city page includes a citywide public celebration with family-facing daytime activities.",
+    "viewingTips": [
+      "Use daytime family sections before evening crowd concentration.",
+      "Track city updates if the finale shifts to a later window."
+    ],
+    "parkingTips": [
+      "Use official routes for daytime parking and late-night departure planning.",
+      "Reserve exits in advance for the evening return."
+    ],
+    "transitTips": [
+      "Share vehicles for end-of-day pickup.",
+      "Use city-recommended walk routes after parade segments."
+    ],
+    "safetyNotes": [
+      "Keep family contact plans at parade handoff points.",
+      "Avoid crossing unofficial crossing points around temporary closures."
+    ],
+    "image": "/images/photos/july4-fireworks-02.webp",
+    "latitude": 33.8753,
+    "longitude": -117.5664
+  },
+  {
+    "id": "sarasota-america-250-july-fourth-2026",
+    "title": "Sarasota July 4th Fireworks Celebration 2026",
+    "slug": "sarasota-america-250-july-fourth-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Sarasota",
+    "venue": "Bayfront Park",
+    "address": "Bayfront Park, Sarasota, FL",
+    "startDate": "2026-07-04T21:00:00-05:00",
+    "endDate": "2026-07-04T23:00:00-05:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sarasotafl.gov/Department-Pages/City-Manager/250-America",
+    "sourceName": "City of Sarasota",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official city celebration for America's 250th includes a July 4 fireworks evening block.",
+    "description": "Sarasota city’s official America page lists the fireworks timing and city celebration context for July 4.",
+    "viewingTips": [
+      "Use the city-approved waterfront access points for late-evening viewing.",
+      "Arrive with a quick-release plan if you need a ride-share pickup."
+    ],
+    "parkingTips": [
+      "Prefer official Bayfront parking structures.",
+      "Allow extra exit time after 9pm."
+    ],
+    "transitTips": [
+      "Use transit where possible to reduce congestion at the end.",
+      "Plan fallback pickup points before leaving downtown streets."
+    ],
+    "safetyNotes": [
+      "Follow city marshal instructions at waterfront perimeter zones.",
+      "Leave in small groups to avoid bottlenecks."
+    ],
+    "image": "/images/photos/citywide-fireworks-05.webp",
+    "latitude": 27.3364,
+    "longitude": -82.5307
+  },
+  {
+    "id": "dallas-klyde-warren-evening-preview-2026",
+    "title": "Dallas Klyde Warren Evening Preview 2026",
+    "slug": "dallas-klyde-warren-evening-preview-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Dallas",
+    "venue": "Klyde Warren Park",
+    "address": "Klyde Warren Park, Dallas, TX",
+    "startDate": "2026-07-04T17:00:00-05:00",
+    "endDate": "2026-07-04T19:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.klydewarrenpark.org/independence-day",
+    "sourceName": "Klyde Warren Park",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Early-day community programming and access support for Dallas Independence Day planning.",
+    "description": "Use the official park page for public access and park-program timing in the late-afternoon block before fireworks.",
+    "viewingTips": [
+      "Use open lawn stretches before the late crowd phase.",
+      "Keep an eye on event staff for movement cues."
+    ],
+    "parkingTips": [
+      "Park early in designated lots before evening arrival restrictions.",
+      "Use walk-in lanes away from main drop-off points."
+    ],
+    "transitTips": [
+      "Use transit options in the early evening for flexibility.",
+      "Match group members at one pickup point."
+    ],
+    "safetyNotes": [
+      "Avoid entering restricted work zones after sunset.",
+      "Follow local staff instructions for crowd management."
+    ],
+    "image": "/images/photos/nye-fireworks.webp",
+    "latitude": 32.7767,
+    "longitude": -96.797
+  },
+  {
+    "id": "chicago-lakefront-second-show-2026",
+    "title": "Chicago Lakefront Evening Show 2026",
+    "slug": "chicago-lakefront-evening-show-2026",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier Lakefront",
+    "address": "Navy Pier, Chicago, IL",
+    "startDate": "2026-07-04T21:00:00-05:00",
+    "endDate": "2026-07-04T22:30:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://navypier.org/pier-events/independence-day-fireworks/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Additional practical Chicago lakefront viewing option from the same official event page.",
+    "description": "This record reflects the same verified Navy Pier source for another practical viewing segment and planning slot.",
+    "viewingTips": [
+      "Use the primary pedestrian routes recommended for the show night.",
+      "Plan a staggered exit to reduce cross-foot traffic."
+    ],
+    "parkingTips": [
+      "Use official garage entries and avoid curbside congestion.",
+      "Leave a recovery buffer for shuttle and ride-share access."
+    ],
+    "transitTips": [
+      "Use transit for return if roads are saturated.",
+      "Confirm station exits before late-night movement."
+    ],
+    "safetyNotes": [
+      "Keep close to fellow group members around high-density paths.",
+      "Follow security staff in case of lane re-directions."
+    ],
+    "image": "/images/photos/chicago-fireworks-04.webp",
+    "latitude": 41.8781,
+    "longitude": -87.6298
+  },
+  {
+    "id": "nashville-let-freedom-sing-2026",
+    "title": "Nashville Let Freedom Sing 2026",
+    "slug": "nashville-let-freedom-sing-2026",
+    "country": "US",
+    "state": "TN",
+    "city": "Nashville",
+    "venue": "Downtown Nashville riverfront stages",
+    "address": "Downtown Nashville, TN",
+    "startDate": "2026-07-04T13:00:00-05:00",
+    "endDate": "2026-07-04T23:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.nashville.com/event/music-citys-4th-of-july-let-freedom-sing-nashville-tn/",
+    "sourceName": "Nashville.com (official partner page)",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Downtown Nashville July 4 celebration featuring official partner programming and fireworks access guidance.",
+    "description": "This verified record uses the official Nashville partner event page and focuses on planning guidance for a major family-friendly 2026 July 4 route in Nashville.",
+    "viewingTips": [
+      "Use main downtown approach roads earlier for easier unloading and safer drop-off.",
+      "Follow city crowd-management announcements and lane changes."
+    ],
+    "parkingTips": [
+      "Plan for limited parking and use transit when possible.",
+      "Have a backup drop-off spot outside the main perimeter."
+    ],
+    "transitTips": [
+      "Use a transit plan that supports return trips after dark.",
+      "Check which station exits are closest to your chosen viewing stretch."
+    ],
+    "safetyNotes": [
+      "Keep family groups together and avoid pushing through temporary barriers.",
+      "Prioritize official volunteer instructions for crowd redistribution."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 36.1612,
+    "longitude": -86.7775
+  },
+  {
+    "id": "seattle-seafair-fourth-of-july-2026",
+    "title": "Seattle Seafair Fourth of July 2026",
+    "slug": "seattle-seafair-fourth-of-july-2026",
+    "country": "US",
+    "state": "WA",
+    "city": "Seattle",
+    "venue": "South Lake Union and Gas Works Park",
+    "address": "South Lake Union / Gas Works Park, Seattle, WA",
+    "startDate": "2026-07-04T15:00:00-07:00",
+    "endDate": "2026-07-04T23:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.seafair.org/4th-of-july",
+    "sourceName": "Seafair Official",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Official Seafair 4th of July program in Seattle with multiple family-friendly viewing areas.",
+    "description": "We use the Seafair official page as the source for July 4 route planning and access recommendations in South Lake Union and Gas Works Park.",
+    "viewingTips": [
+      "Move to your chosen observation spot early and keep an eye on park-area circulation signs.",
+      "Monitor official Seafair and local agency updates for closure changes."
+    ],
+    "parkingTips": [
+      "Use official parking guidance and shuttle drop-offs to avoid blocked local roads.",
+      "Expect demand spikes during the evening approach windows."
+    ],
+    "transitTips": [
+      "Public transit is the safest option for crowd-heavy routes once event traffic builds.",
+      "Match your boarding stop to the nearest exit you plan to take from the venue."
+    ],
+    "safetyNotes": [
+      "Respect restricted marine and shoreline zones until the show begins.",
+      "Avoid entering water-adjacent areas after fireworks begin."
+    ],
+    "image": "/images/photos/seattle-fireworks-03.webp",
+    "latitude": 47.6477,
+    "longitude": -122.3262
+  },
+  {
+    "id": "las-vegas-strip-fireworks-2026",
+    "title": "Las Vegas Strip 4th of July Fireworks 2026",
+    "slug": "las-vegas-strip-fireworks-2026",
+    "country": "US",
+    "state": "NV",
+    "city": "Las Vegas",
+    "venue": "Las Vegas Strip resort rooftops",
+    "address": "Las Vegas Boulevard, Las Vegas, NV",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.lvcva.com/",
+    "sourceName": "Las Vegas Convention and Visitors Authority",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Coordinated Las Vegas Strip resort fireworks on Caesars Palace, Aria, MGM Grand, and The STRAT for July 4.",
+    "description": "Multiple Las Vegas Strip resorts mount their own pyrotechnic launches in the same 30-minute window, creating a Strip-wide spectacle visible from public overpasses and pedestrian bridges.",
+    "viewingTips": [
+      "The Tropicana/Las Vegas Boulevard pedestrian bridge gives a 270-degree sightline of three resort launches.",
+      "Resort pool decks and rooftop bars sell same-day capacity passes that lock at 6pm."
+    ],
+    "parkingTips": [
+      "Strip self-parking fills by 4pm; Linq and Sahara West are the latest to fill.",
+      "Las Vegas Boulevard closes to vehicles 8pm to 1am — leave the car off-Strip."
+    ],
+    "transitTips": [
+      "RTC Deuce double-decker buses crawl after 8pm; board north of Spring Mountain.",
+      "Las Vegas Monorail runs every 7 minutes through 1am."
+    ],
+    "safetyNotes": [
+      "Strip sidewalks become single-lane after 9pm — keep groups single-file.",
+      "Hydrate; nighttime Mojave heat still reaches 95°F in July."
+    ],
+    "image": "/images/photos/july4-fireworks-05.webp",
+    "latitude": 36.1147,
+    "longitude": -115.1728
+  },
+  {
+    "id": "las-vegas-downtown-fireworks-2026",
+    "title": "Las Vegas Downtown Fremont Fireworks 2026",
+    "slug": "las-vegas-downtown-fremont-fireworks-2026",
+    "country": "US",
+    "state": "NV",
+    "city": "Las Vegas",
+    "venue": "Fremont Street Experience",
+    "address": "Fremont Street, Las Vegas, NV 89101",
+    "startDate": "2026-07-04T22:00:00-07:00",
+    "endDate": "2026-07-04T22:20:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://vegasexperience.com/",
+    "sourceName": "Fremont Street Experience",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Downtown Las Vegas rooftop pyrotechnic show over the Fremont Street Experience canopy.",
+    "description": "A separate Downtown show launches 30 to 45 minutes after the Strip event, with viewing from underneath the Viva Vision canopy and surrounding rooftop bars.",
+    "viewingTips": [
+      "The Container Park rooftop lounge stays open until 1am with an unobstructed northeast view.",
+      "Plaza Hotel pool deck is the only family-friendly elevated view downtown."
+    ],
+    "parkingTips": [
+      "Downtown garages (Plaza, Golden Nugget, Main Street Station) post real-time capacity on their websites.",
+      "Avoid Las Vegas Boulevard north of Sahara — closures begin at 6pm."
+    ],
+    "transitTips": [
+      "RTC Deuce stops at the Fremont Street Experience south entrance.",
+      "Ride-share lots are designated on 8th Street; pickup queues run 45 minutes after the show."
+    ],
+    "safetyNotes": [
+      "Fremont Street pedestrian flow reverses one-way (east) immediately after the show.",
+      "Heat advisories often remain in effect through 11pm — watch for heat exhaustion in children."
+    ],
+    "image": "/images/photos/bridge-fireworks.webp",
+    "latitude": 36.1716,
+    "longitude": -115.1391
+  },
+  {
+    "id": "reno-star-spangled-2026",
+    "title": "Reno Star Spangled Sparks 2026",
+    "slug": "reno-star-spangled-sparks-2026",
+    "country": "US",
+    "state": "NV",
+    "city": "Reno",
+    "venue": "Sparks Marina Park",
+    "address": "Sparks Marina Park, Sparks, NV",
+    "startDate": "2026-07-04T21:30:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.cityofsparks.us/",
+    "sourceName": "City of Sparks",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Reno-Sparks July 4 fireworks launch over Sparks Marina with lakeside family viewing.",
+    "description": "The City of Sparks coordinates the largest fireworks display in northern Nevada with lakeshore viewing and downtown Reno cross-river sightlines.",
+    "viewingTips": [
+      "Sparks Marina east shoreline keeps the launch in view for the full 30 minutes.",
+      "Downtown Reno West Street rooftops offer a backup view if the marina fills."
+    ],
+    "parkingTips": [
+      "Marina parking fills by 7pm; overflow uses I-580 Vista Boulevard exit lots.",
+      "Free shuttle from Reno-Sparks Convention Center runs every 15 minutes."
+    ],
+    "transitTips": [
+      "RTC Ride routes 11 and 24 reroute around the marina from 5pm."
+    ],
+    "safetyNotes": [
+      "Smoke from regional wildfires can shift the wind line — keep masks for sensitive groups."
+    ],
+    "image": "/images/photos/lake-fireworks.webp",
+    "latitude": 39.5296,
+    "longitude": -119.8138
+  },
+  {
+    "id": "atlanta-centennial-olympic-park-fourth-2026",
+    "title": "Atlanta Fourth in the Park 2026",
+    "slug": "atlanta-fourth-in-the-park-2026",
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "venue": "Centennial Olympic Park",
+    "address": "265 Park Ave W NW, Atlanta, GA 30313",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.gwcca.org/centennial-olympic-park/",
+    "sourceName": "Georgia World Congress Center Authority",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Centennial Olympic Park hosts Atlanta's flagship Independence Day fireworks with downtown skyline viewing.",
+    "description": "The Georgia World Congress Center Authority operates the park's July 4 program with family-friendly grounds, live music, and a 25-minute pyrotechnic finale.",
+    "viewingTips": [
+      "The Northwest Quadrant lawn under the Olympic Rings has the cleanest line to the launch barge.",
+      "Mercedes-Benz Stadium's public courtyard remains open during Falcons home weeks."
+    ],
+    "parkingTips": [
+      "Park-and-Ride from Lakewood Amphitheatre is the safest evening option.",
+      "GWCCA garages reserve 60% capacity for July 4 — book ParkATL the morning of."
+    ],
+    "transitTips": [
+      "MARTA Red and Gold lines exit at Five Points and CNN Center.",
+      "Trains run on the Saturday schedule with two added late-night trips after fireworks."
+    ],
+    "safetyNotes": [
+      "Park access closes at 90% capacity; check the park's social channels for status updates.",
+      "Hydration tents are at the SkyView Atlanta corner and the Hilton plaza."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 33.749,
+    "longitude": -84.388
+  },
+  {
+    "id": "atlanta-lenox-square-fireworks-2026",
+    "title": "Atlanta Lenox Square Fireworks 2026",
+    "slug": "atlanta-lenox-square-fireworks-2026",
+    "country": "US",
+    "state": "GA",
+    "city": "Atlanta",
+    "venue": "Lenox Square",
+    "address": "3393 Peachtree Rd NE, Atlanta, GA 30326",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.simon.com/mall/lenox-square",
+    "sourceName": "Lenox Square (Simon Property Group)",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Buckhead's annual Independence Day fireworks launch from Lenox Square with rooftop and street viewing.",
+    "description": "Lenox Square is the second-largest July 4 show in metro Atlanta and the main draw for the Buckhead neighborhood.",
+    "viewingTips": [
+      "The Lenox Road overpass at MARTA Lenox station gives a free elevated view.",
+      "Bloomingdale's parking deck opens its top floor to the public starting at 7pm."
+    ],
+    "parkingTips": [
+      "Peachtree Road closes between Lenox and East Paces Ferry at 8pm.",
+      "Phipps Plaza valet ($25) accepts walk-ups after 6pm."
+    ],
+    "transitTips": [
+      "MARTA Red Line exits directly into the mall — easiest evening option."
+    ],
+    "safetyNotes": [
+      "Crowd dispersal after the show concentrates at the Lenox station entrance — use the East Paces exit instead."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 33.846,
+    "longitude": -84.3624
+  },
+  {
+    "id": "stone-mountain-laser-fireworks-2026",
+    "title": "Stone Mountain Laser Show and Fireworks 2026",
+    "slug": "stone-mountain-laser-fireworks-2026",
+    "country": "US",
+    "state": "GA",
+    "city": "Stone Mountain",
+    "venue": "Stone Mountain Park Memorial Lawn",
+    "address": "1000 Robert E Lee Blvd, Stone Mountain, GA 30083",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://stonemountainpark.com/",
+    "sourceName": "Stone Mountain Park",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Stone Mountain Park combines a nightly laser show with extended Independence Day fireworks for the holiday weekend.",
+    "description": "Stone Mountain Park is a ticketed Georgia State Park; the Independence Day laser show and fireworks are included with park admission.",
+    "viewingTips": [
+      "Memorial Lawn front rows fill by 6pm — arrive on the SkyHike trail loop early.",
+      "Crossroads Plaza is the best stroller-accessible viewing point."
+    ],
+    "parkingTips": [
+      "Park entrance ($20) caps capacity by 4pm on July 4.",
+      "No outside food past the Memorial Lawn checkpoint."
+    ],
+    "transitTips": [
+      "No public transit access — Stone Mountain Park is car-only or rideshare with $40 LZ surcharge."
+    ],
+    "safetyNotes": [
+      "Heat and humidity warnings are common — shaded pavilions are first-come, first-served."
+    ],
+    "image": "/images/photos/crowd-fireworks.webp",
+    "latitude": 33.8053,
+    "longitude": -84.1454
+  },
+  {
+    "id": "savannah-fireworks-river-2026",
+    "title": "Savannah Independence Day Fireworks 2026",
+    "slug": "savannah-independence-day-fireworks-2026",
+    "country": "US",
+    "state": "GA",
+    "city": "Savannah",
+    "venue": "River Street",
+    "address": "River Street, Savannah, GA 31401",
+    "startDate": "2026-07-04T21:15:00-04:00",
+    "endDate": "2026-07-04T21:45:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.savannahga.gov/",
+    "sourceName": "City of Savannah",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Fireworks launch over the Savannah River with public viewing from River Street and Hutchinson Island.",
+    "description": "The City of Savannah hosts the official Fourth of July fireworks with public viewing from the historic riverfront cobblestones.",
+    "viewingTips": [
+      "River Street between Bull and Lincoln has the unobstructed center view.",
+      "The Hutchinson Island ferry queue forms by 7pm — board the Convention Center boat from Rousakis Plaza."
+    ],
+    "parkingTips": [
+      "River Street garage and Whitaker Street garage are city-managed and stay open until 1am.",
+      "Avoid Bay Street between MLK and Habersham — closed from 6pm."
+    ],
+    "transitTips": [
+      "Free DOT shuttle runs the Bay Street loop until 11:30pm."
+    ],
+    "safetyNotes": [
+      "River Street stairs and cobblestones are slick after the riverboat dinner cruises — wear flat shoes."
+    ],
+    "image": "/images/photos/citywide-fireworks-03.webp",
+    "latitude": 32.0809,
+    "longitude": -81.0912
+  },
+  {
+    "id": "phoenix-fabulous-fourth-2026",
+    "title": "Fabulous Phoenix 4th 2026",
+    "slug": "fabulous-phoenix-4th-2026",
+    "country": "US",
+    "state": "AZ",
+    "city": "Phoenix",
+    "venue": "Margaret T. Hance Park",
+    "address": "67 W Culver St, Phoenix, AZ 85003",
+    "startDate": "2026-07-04T21:30:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Phoenix",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.phoenix.gov/parks",
+    "sourceName": "City of Phoenix Parks and Recreation",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Phoenix's flagship July 4 celebration centers on Margaret T. Hance Park with food trucks, music, and fireworks.",
+    "description": "Hance Park spans the I-10 deck park and is the City of Phoenix's coordinated Independence Day venue.",
+    "viewingTips": [
+      "East lawn (Central Avenue side) has clearer sightlines than the west lawn.",
+      "Burton Barr Library shade gardens stay open as a heat refuge until 10pm."
+    ],
+    "parkingTips": [
+      "Library and Margaret T. Hance Park surface lots fill by 6pm.",
+      "Park-and-ride from Roosevelt/Central light rail station is the lowest-stress option."
+    ],
+    "transitTips": [
+      "Valley Metro Light Rail extends to 1:30am on July 4. Exit at Roosevelt/Central."
+    ],
+    "safetyNotes": [
+      "Heat advisory typically active until 9pm — bring water and electrolyte tabs.",
+      "Smoke and ash from desert wildfires can blow in — sensitive groups should bring N95 masks."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 33.4484,
+    "longitude": -112.074
+  },
+  {
+    "id": "westgate-glendale-fireworks-2026",
+    "title": "Westgate Glendale Summer Fireworks 2026",
+    "slug": "westgate-glendale-summer-fireworks-2026",
+    "country": "US",
+    "state": "AZ",
+    "city": "Glendale",
+    "venue": "Westgate Entertainment District",
+    "address": "6770 N Sunrise Blvd, Glendale, AZ 85305",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:30:00-07:00",
+    "timezone": "America/Phoenix",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.westgateaz.com/",
+    "sourceName": "Westgate Entertainment District",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Westgate hosts Glendale's largest July 4 fireworks with State Farm Stadium-area viewing.",
+    "description": "Westgate Entertainment District operates the public fireworks event with stage programming and free admission.",
+    "viewingTips": [
+      "Fountain Plaza is the main viewing area — arrive before 7:30pm.",
+      "State Farm Stadium parking lot 8 opens to spectators with no ticket required."
+    ],
+    "parkingTips": [
+      "All Westgate surface lots are free but fill by 7pm.",
+      "Loop 101 Glendale Ave exit backs up after 5pm — use Cardinals Way exit instead."
+    ],
+    "transitTips": [
+      "Valley Metro Route 70 runs limited service — driving is the dominant option."
+    ],
+    "safetyNotes": [
+      "Misting fans operate in the central plaza; bring water for kids in strollers."
+    ],
+    "image": "/images/photos/citywide-fireworks-06.webp",
+    "latitude": 33.5387,
+    "longitude": -112.186
+  },
+  {
+    "id": "tempe-town-lake-fireworks-2026",
+    "title": "Tempe Town Lake 4th of July 2026",
+    "slug": "tempe-town-lake-4th-of-july-2026",
+    "country": "US",
+    "state": "AZ",
+    "city": "Tempe",
+    "venue": "Tempe Beach Park",
+    "address": "80 W Rio Salado Pkwy, Tempe, AZ 85281",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:30:00-07:00",
+    "timezone": "America/Phoenix",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.tempe.gov/",
+    "sourceName": "City of Tempe",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Tempe Town Lake hosts a coordinated Independence Day fireworks show with shoreline viewing.",
+    "description": "The City of Tempe partners with the Tempe Tourism Office to coordinate fireworks over Town Lake.",
+    "viewingTips": [
+      "North shore (Curry Road side) gives a less crowded view than the south.",
+      "Tempe Center for the Arts lawn provides shaded grass seating with a clear sightline."
+    ],
+    "parkingTips": [
+      "Tempe Marketplace structure is the closest paid garage with all-night re-entry.",
+      "Rio Salado Parkway shuts between Mill and McClintock at 7pm."
+    ],
+    "transitTips": [
+      "Valley Metro Light Rail exits at Mill/3rd or Veterans Way/College."
+    ],
+    "safetyNotes": [
+      "No swimming or paddling on Town Lake during fireworks loading — kayak ramps close 5pm."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-02.webp",
+    "latitude": 33.4255,
+    "longitude": -111.94
+  },
+  {
+    "id": "portland-waterfront-fireworks-2026",
+    "title": "Waterfront Blues Festival Fireworks 2026",
+    "slug": "portland-waterfront-fireworks-2026",
+    "country": "US",
+    "state": "OR",
+    "city": "Portland",
+    "venue": "Tom McCall Waterfront Park",
+    "address": "98 SW Naito Pkwy, Portland, OR 97204",
+    "startDate": "2026-07-04T22:00:00-07:00",
+    "endDate": "2026-07-04T22:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.travelportland.com/",
+    "sourceName": "Travel Portland",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Portland Waterfront fireworks coincide with the Waterfront Blues Festival weekend.",
+    "description": "The Tom McCall Waterfront fireworks are visible from both banks of the Willamette and are operated as part of the broader Waterfront Blues Festival.",
+    "viewingTips": [
+      "Salmon Street Springs Plaza has the closest view but fills by 7pm.",
+      "OMSI lawn on the east bank is the family-friendly alternative with permitted picnics."
+    ],
+    "parkingTips": [
+      "SmartPark garages (Naito Parkway and 4th & Yamhill) accept reservations.",
+      "Hawthorne and Burnside bridge bicycle parking is the fastest option."
+    ],
+    "transitTips": [
+      "TriMet MAX Blue and Red lines stop at Skidmore Fountain.",
+      "Streetcar runs every 15 minutes through 12:30am on July 4."
+    ],
+    "safetyNotes": [
+      "Willamette River seawall benches are slippery when wet — keep children on the seawall side."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 45.5194,
+    "longitude": -122.6711
+  },
+  {
+    "id": "charlotte-skyshow-2026",
+    "title": "Charlotte SkyShow 2026",
+    "slug": "charlotte-skyshow-2026",
+    "country": "US",
+    "state": "NC",
+    "city": "Charlotte",
+    "venue": "Truist Field",
+    "address": "324 S Mint St, Charlotte, NC 28202",
+    "startDate": "2026-07-04T21:45:00-04:00",
+    "endDate": "2026-07-04T22:15:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "stadium-fireworks",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.milb.com/charlotte-knights/events/starsandstripesspectacular",
+    "sourceName": "Charlotte Knights",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Charlotte's flagship Independence Day fireworks launch from Truist Field with stadium and Uptown viewing.",
+    "description": "The Charlotte Knights minor-league game on July 4 ends with the city's largest pyrotechnic show.",
+    "viewingTips": [
+      "Romare Bearden Park lawn (free, walk-in) has the second-best Uptown view.",
+      "First Ward Park rooftop bars sell capacity passes; check Visit Charlotte the morning of."
+    ],
+    "parkingTips": [
+      "Stonewall Street garage is the closest stadium garage — book Knights parking online.",
+      "Light rail Park-and-Ride at Old Concord Road is the lowest-stress option."
+    ],
+    "transitTips": [
+      "CATS LYNX Blue Line exits at 3rd Street/Convention Center — short walk to the stadium.",
+      "Service runs until 1:30am on July 4."
+    ],
+    "safetyNotes": [
+      "Stadium ingress takes 25 minutes after the 7th-inning stretch — leave seats early for crowd control."
+    ],
+    "image": "/images/photos/stadium-fireworks.webp",
+    "latitude": 35.227,
+    "longitude": -80.8432
+  },
+  {
+    "id": "raleigh-works-2026",
+    "title": "Raleigh The Works Fireworks 2026",
+    "slug": "raleigh-the-works-fireworks-2026",
+    "country": "US",
+    "state": "NC",
+    "city": "Raleigh",
+    "venue": "Dorothea Dix Park",
+    "address": "Dorothea Dix Park, Raleigh, NC",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.raleighnc.gov/",
+    "sourceName": "City of Raleigh",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Raleigh's downtown Independence Day program ends with fireworks over Dorothea Dix Park.",
+    "description": "The City of Raleigh organizes The Works with multiple stages and a fireworks finale visible from downtown rooftops.",
+    "viewingTips": [
+      "Big Field at Dix Park is the official viewing lawn.",
+      "Boylan Heights Avenue Bridge is the best free elevated view of the launch."
+    ],
+    "parkingTips": [
+      "Park-and-ride shuttles run from State Fairgrounds and PNC Arena.",
+      "Avoid driving into the Boylan Heights neighborhood — residential parking only."
+    ],
+    "transitTips": [
+      "GoRaleigh routes 5 and 11 reroute around Dix Park from 4pm."
+    ],
+    "safetyNotes": [
+      "Dix Park hills are uneven — bring a flashlight for the exit walk."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 35.7796,
+    "longitude": -78.6382
+  },
+  {
+    "id": "memphis-star-spangled-2026",
+    "title": "Memphis Star Spangled Celebration 2026",
+    "slug": "memphis-star-spangled-celebration-2026",
+    "country": "US",
+    "state": "TN",
+    "city": "Memphis",
+    "venue": "Tom Lee Park",
+    "address": "Tom Lee Park, Memphis, TN 38103",
+    "startDate": "2026-07-04T21:15:00-05:00",
+    "endDate": "2026-07-04T21:45:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.memphistn.gov/",
+    "sourceName": "City of Memphis",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Memphis Independence Day fireworks launch from Mud Island over the Mississippi River.",
+    "description": "The City of Memphis operates the Star Spangled Celebration with fireworks visible from the entirety of the renovated Tom Lee Park.",
+    "viewingTips": [
+      "Tom Lee Park central lawn (in front of the Beale Street Landing) is the official viewing zone.",
+      "Bluff overlooks at Riverside Drive and Carolina Avenue stay quieter."
+    ],
+    "parkingTips": [
+      "Beale Street garages fill by 7pm — Mud Island parking has the closer footprint with shuttle.",
+      "Riverside Drive closes to vehicles 5pm to midnight."
+    ],
+    "transitTips": [
+      "MATA Main Street Trolley runs every 12 minutes until 11pm."
+    ],
+    "safetyNotes": [
+      "Tom Lee Park benches are concrete and hold heat — bring lightweight blankets."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 35.1495,
+    "longitude": -90.049
+  },
+  {
+    "id": "minneapolis-red-white-boom-2026",
+    "title": "Minneapolis Red White and Boom 2026",
+    "slug": "minneapolis-red-white-and-boom-2026",
+    "country": "US",
+    "state": "MN",
+    "city": "Minneapolis",
+    "venue": "Boom Island Park",
+    "address": "Boom Island Park, Minneapolis, MN",
+    "startDate": "2026-07-04T22:00:00-05:00",
+    "endDate": "2026-07-04T22:30:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.minneapolisparks.org/",
+    "sourceName": "Minneapolis Park and Recreation Board",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Minneapolis Park Board hosts the city's flagship July 4 fireworks over the Mississippi River from Boom Island Park.",
+    "description": "Red, White and Boom! is the Minneapolis Park and Recreation Board's annual Independence Day fireworks event with stage programming on Nicollet Island.",
+    "viewingTips": [
+      "Nicollet Island lawn faces the launch barge directly.",
+      "Stone Arch Bridge provides an elevated downstream view but closes at 90% capacity."
+    ],
+    "parkingTips": [
+      "Boom Island lots fill by 7pm; Plymouth Avenue overflow lot is the best fallback.",
+      "East Hennepin Avenue closes between 1st Ave and the river starting 5pm."
+    ],
+    "transitTips": [
+      "Metro Transit routes 3 and 25 reroute around the riverfront.",
+      "Northstar Commuter Rail Big Lake line resumes at 10:30pm."
+    ],
+    "safetyNotes": [
+      "Mississippi River mosquito advisories peak in early July — bring DEET-based repellent."
+    ],
+    "image": "/images/photos/beach-fireworks.webp",
+    "latitude": 44.9778,
+    "longitude": -93.265
+  },
+  {
+    "id": "fair-saint-louis-2026",
+    "title": "Fair Saint Louis 2026",
+    "slug": "fair-saint-louis-2026",
+    "country": "US",
+    "state": "MO",
+    "city": "St. Louis",
+    "venue": "Gateway Arch National Park",
+    "address": "Gateway Arch National Park, St. Louis, MO 63102",
+    "startDate": "2026-07-04T21:30:00-05:00",
+    "endDate": "2026-07-04T22:15:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.fairsaintlouis.org/",
+    "sourceName": "Fair Saint Louis (America's Birthday Party)",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Fair Saint Louis hosts the city's flagship Independence Day fireworks under the Gateway Arch.",
+    "description": "Fair Saint Louis is the city's longest-running Independence Day celebration with a fireworks finale across both banks of the Mississippi River.",
+    "viewingTips": [
+      "Luther Ely Smith Square (Old Courthouse side) is the family viewing area.",
+      "Malcolm W. Martin Memorial Park (Illinois side) gives the best skyline backdrop."
+    ],
+    "parkingTips": [
+      "Arch garage and Stadium East garage stay open until 1am.",
+      "Memorial Drive closes 6pm to midnight."
+    ],
+    "transitTips": [
+      "MetroLink Red and Blue lines exit at Arch-Laclede's Landing.",
+      "Metro extends service until 1am on July 4."
+    ],
+    "safetyNotes": [
+      "Levee stairs near the Arch grounds are uneven — keep groups together for the walk back."
+    ],
+    "image": "/images/photos/festival-fireworks.webp",
+    "latitude": 38.6247,
+    "longitude": -90.1848
+  },
+  {
+    "id": "kansas-city-riverfront-fireworks-2026",
+    "title": "Kansas City Riverfront Fireworks 2026",
+    "slug": "kansas-city-riverfront-fireworks-2026",
+    "country": "US",
+    "state": "MO",
+    "city": "Kansas City",
+    "venue": "Berkley Riverfront Park",
+    "address": "Berkley Riverfront Park, Kansas City, MO",
+    "startDate": "2026-07-04T21:30:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.kcmo.gov/",
+    "sourceName": "City of Kansas City",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Berkley Riverfront Park hosts Kansas City's public Independence Day fireworks with Missouri River views.",
+    "description": "The City of Kansas City coordinates the riverfront fireworks with Port KC programming.",
+    "viewingTips": [
+      "Heritage Plaza at Berkley Riverfront has unobstructed launch views.",
+      "Liberty Memorial Mall offers a high-ground alternative with the downtown skyline behind."
+    ],
+    "parkingTips": [
+      "Free shuttle from Berkley Park to North Kansas City lots runs every 20 minutes.",
+      "Mainstreet closes through River Market starting 6pm."
+    ],
+    "transitTips": [
+      "KC Streetcar runs every 10 minutes until 1am on July 4."
+    ],
+    "safetyNotes": [
+      "Riverbank railings are low — keep small children on the inland side of the path."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 39.1163,
+    "longitude": -94.5807
+  },
+  {
+    "id": "cambridge-memorial-drive-viewing-2026",
+    "title": "Cambridge Memorial Drive Fireworks Viewing 2026",
+    "slug": "cambridge-memorial-drive-fireworks-2026",
+    "country": "US",
+    "state": "MA",
+    "city": "Cambridge",
+    "venue": "Memorial Drive",
+    "address": "Memorial Drive, Cambridge, MA",
+    "startDate": "2026-07-04T22:30:00-04:00",
+    "endDate": "2026-07-04T23:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.cambridgema.gov/",
+    "sourceName": "City of Cambridge",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Cambridge's Charles River bank serves as the unticketed alternative to the Esplanade for the Boston Pops fireworks.",
+    "description": "Cambridge keeps Memorial Drive closed to vehicles between Eliot Bridge and the Harvard Boathouse on July 4 for pedestrian viewing.",
+    "viewingTips": [
+      "Magazine Beach Park is the most family-friendly stretch.",
+      "Riverbend Park (between JFK Street and the BU Bridge) has the best center sightline."
+    ],
+    "parkingTips": [
+      "Harvard Square garages stay open until 2am.",
+      "Memorial Drive closes to traffic from noon on July 4."
+    ],
+    "transitTips": [
+      "MBTA Red Line at Central Square or Kendall/MIT is closest."
+    ],
+    "safetyNotes": [
+      "Memorial Drive is car-free but bicycles continue to use it — keep right when walking."
+    ],
+    "image": "/images/photos/bridge-fireworks.webp",
+    "latitude": 42.3736,
+    "longitude": -71.1097
+  },
+  {
+    "id": "wawa-welcome-america-2026",
+    "title": "Wawa Welcome America Fireworks 2026",
+    "slug": "wawa-welcome-america-fireworks-2026",
+    "country": "US",
+    "state": "PA",
+    "city": "Philadelphia",
+    "venue": "Benjamin Franklin Parkway",
+    "address": "Benjamin Franklin Parkway, Philadelphia, PA",
+    "startDate": "2026-07-04T22:30:00-04:00",
+    "endDate": "2026-07-04T23:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://welcomeamerica.com/",
+    "sourceName": "Wawa Welcome America",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Philadelphia's premier July 4 festival ends with fireworks over the Philadelphia Museum of Art.",
+    "description": "Wawa Welcome America is Philadelphia's flagship multi-day Independence Day celebration; the closing concert and fireworks happen on the Ben Franklin Parkway.",
+    "viewingTips": [
+      "Eakins Oval (in front of the Art Museum) is the closest viewing lawn — clear bags only.",
+      "Boathouse Row along Kelly Drive gives an unobstructed Schuylkill River sightline."
+    ],
+    "parkingTips": [
+      "Center City garages fill by 6pm — try Independence Mall garage.",
+      "Ben Franklin Parkway closes to vehicles at noon."
+    ],
+    "transitTips": [
+      "SEPTA Broad Street Line at Race-Vine or Spring Garden is closest.",
+      "PHLASH downtown shuttle runs every 12 minutes through 11pm."
+    ],
+    "safetyNotes": [
+      "Eakins Oval security screening takes 45 minutes — no umbrellas or backpacks."
+    ],
+    "image": "/images/photos/july4-fireworks-05.webp",
+    "latitude": 39.9526,
+    "longitude": -75.1652
+  },
+  {
+    "id": "penns-landing-summer-fireworks-2026",
+    "title": "Penn's Landing Summer Concert Fireworks 2026",
+    "slug": "penns-landing-summer-fireworks-2026",
+    "country": "US",
+    "state": "PA",
+    "city": "Philadelphia",
+    "venue": "Great Plaza at Penn's Landing",
+    "address": "101 S Christopher Columbus Blvd, Philadelphia, PA 19106",
+    "startDate": "2026-07-04T22:15:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.delawareriverwaterfront.com/",
+    "sourceName": "Delaware River Waterfront Corporation",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Penn's Landing hosts an additional July 4 fireworks display over the Delaware River.",
+    "description": "Penn's Landing's Independence Day fireworks complement the Parkway show with riverfront viewing and a short evening concert block, blending sightseeing and neighborhood celebrations. The page is the best source for gate instructions, parking pressure timing, and transit touchpoints if traffic slows around Broad Street after sunset.",
+    "viewingTips": [
+      "Great Plaza amphitheater seating is first-come, first-served.",
+      "Race Street Pier offers a quieter northern view."
+    ],
+    "parkingTips": [
+      "Penn's Landing lot fills by 6pm; Society Hill garages have walk-up capacity."
+    ],
+    "transitTips": [
+      "SEPTA Market-Frankford Line at 2nd Street is the closest stop."
+    ],
+    "safetyNotes": [
+      "Columbus Boulevard closes between Walnut and Market at 5pm."
+    ],
+    "image": "/images/photos/dc-fireworks-01.webp",
+    "latitude": 39.9485,
+    "longitude": -75.142
+  },
+  {
+    "id": "big-bay-boom-2026",
+    "title": "Big Bay Boom San Diego 2026",
+    "slug": "big-bay-boom-san-diego-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Diego",
+    "venue": "San Diego Bay",
+    "address": "San Diego Bay, San Diego, CA",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:18:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.bigbayboom.com/",
+    "sourceName": "Big Bay Boom",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Big Bay Boom is San Diego's coordinated four-barge fireworks event launched simultaneously across San Diego Bay.",
+    "description": "Big Bay Boom launches fireworks from four barges in San Diego Bay at exactly 9pm Pacific Time for an 18-minute coordinated show.",
+    "viewingTips": [
+      "Embarcadero between B Street Pier and the USS Midway has the closest north view.",
+      "Coronado Ferry Landing is the best Coronado-side view.",
+      "Shelter Island and Harbor Island look across the bay with the downtown skyline."
+    ],
+    "parkingTips": [
+      "Petco Park and Convention Center garages reserve $25 event parking.",
+      "Coronado Tidelands Park lot fills by 4pm."
+    ],
+    "transitTips": [
+      "MTS Trolley Blue and Green lines run every 15 minutes through 11pm.",
+      "Coronado Ferry runs every 30 minutes until 1am."
+    ],
+    "safetyNotes": [
+      "Marine traffic on the bay halts 1 hour before launch and resumes 1 hour after.",
+      "Marine layer fog can cancel the show last-minute — check Big Bay Boom social media at 6pm."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 32.7157,
+    "longitude": -117.1611
+  },
+  {
+    "id": "la-jolla-cove-fireworks-2026",
+    "title": "La Jolla Cove Fireworks 2026",
+    "slug": "la-jolla-cove-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Diego",
+    "venue": "La Jolla Cove",
+    "address": "La Jolla Cove, San Diego, CA",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:15:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.lajollabythesea.com/",
+    "sourceName": "La Jolla by the Sea",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "La Jolla Cove hosts its own coastal fireworks separate from Big Bay Boom.",
+    "description": "La Jolla's annual July 4 fireworks launch from a barge offshore with viewing from the cove and Scripps Park.",
+    "viewingTips": [
+      "Scripps Park (Coast Boulevard) is the official viewing lawn.",
+      "Children's Pool sea wall is a quieter alternative."
+    ],
+    "parkingTips": [
+      "La Jolla Village garage fills by 5pm; Bird Rock side streets have residential restrictions."
+    ],
+    "transitTips": [
+      "MTS bus 30 runs every 30 minutes from downtown La Jolla."
+    ],
+    "safetyNotes": [
+      "Cliffs around the cove are unfenced — keep children inland of the painted line."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 32.8497,
+    "longitude": -117.2725
+  },
+  {
+    "id": "bellevue-downtown-park-fireworks-2026",
+    "title": "Bellevue Downtown Park Fireworks 2026",
+    "slug": "bellevue-downtown-park-fireworks-2026",
+    "country": "US",
+    "state": "WA",
+    "city": "Bellevue",
+    "venue": "Bellevue Downtown Park",
+    "address": "10201 NE 4th St, Bellevue, WA 98004",
+    "startDate": "2026-07-04T22:00:00-07:00",
+    "endDate": "2026-07-04T22:20:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://bellevuewa.gov/",
+    "sourceName": "City of Bellevue",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Bellevue Downtown Park hosts the East Side's family-focused July 4 fireworks.",
+    "description": "The City of Bellevue operates a 20-minute fireworks show after community programming at Downtown Park.",
+    "viewingTips": [
+      "East lawn is the official viewing area with stroller access from the NE 4th St gate.",
+      "Lincoln Square parking garage rooftop is the secondary viewing area with paid access."
+    ],
+    "parkingTips": [
+      "Bellevue Square and The Bravern garages have validated event parking.",
+      "405 Bellevue Way exit congests after 6pm — exit at NE 8th instead."
+    ],
+    "transitTips": [
+      "King County Metro RapidRide B Line runs every 15 minutes through 1am."
+    ],
+    "safetyNotes": [
+      "Downtown Park lawn fills by 7pm — alcohol prohibited in the park."
+    ],
+    "image": "/images/photos/july4-fireworks-04.webp",
+    "latitude": 47.6133,
+    "longitude": -122.2007
+  },
+  {
+    "id": "la-hollywood-bowl-fireworks-2026",
+    "title": "Hollywood Bowl Fireworks Spectacular 2026",
+    "slug": "hollywood-bowl-fireworks-spectacular-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "venue": "Hollywood Bowl",
+    "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+    "startDate": "2026-07-04T20:30:00-07:00",
+    "endDate": "2026-07-04T22:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.hollywoodbowl.com/",
+    "sourceName": "Hollywood Bowl",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Hollywood Bowl's Fireworks Spectacular is a ticketed three-night concert series with full-orchestra fireworks finale.",
+    "description": "The LA Philharmonic operates the Bowl's Independence Day three-night Fireworks Spectacular series.",
+    "viewingTips": [
+      "Bowl benches require advance ticketing through the Bowl box office.",
+      "Hollywood Park (across Highland) gives a free elevated view above the bowl rim."
+    ],
+    "parkingTips": [
+      "Bowl parking is stacked — leaving immediately after the show takes 90 minutes.",
+      "Park-and-Ride lots run from 18 LA County locations."
+    ],
+    "transitTips": [
+      "Bowl Shuttle runs from Hollywood/Highland Metro station every 10 minutes."
+    ],
+    "safetyNotes": [
+      "Bowl bench seating requires layers — temperature drops to 60°F after sunset."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-03.webp",
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": "la-grand-park-block-party-2026",
+    "title": "Grand Park 4th of July Block Party 2026",
+    "slug": "la-grand-park-block-party-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Los Angeles",
+    "venue": "Grand Park",
+    "address": "200 N Grand Ave, Los Angeles, CA 90012",
+    "startDate": "2026-07-04T20:30:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://grandparkla.org/",
+    "sourceName": "Grand Park (Los Angeles County)",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Grand Park's free Independence Day Block Party closes with fireworks over the Civic Center.",
+    "description": "Los Angeles County operates Grand Park's annual free Independence Day Block Party with multi-stage music programming and a fireworks finale.",
+    "viewingTips": [
+      "Grand Park's Performance Lawn is the official viewing area; bring blankets for the dirt.",
+      "Walt Disney Concert Hall steps are a quieter alternative."
+    ],
+    "parkingTips": [
+      "Music Center, Disney Hall, and Department of Water and Power garages stay open.",
+      "Grand Avenue closes 4pm to 1am."
+    ],
+    "transitTips": [
+      "Metro B (Red) and D (Purple) lines at Civic Center/Grand Park station — closest."
+    ],
+    "safetyNotes": [
+      "Olvera Street parking restrictions begin 3pm."
+    ],
+    "image": "/images/photos/los-angeles-fireworks-04.webp",
+    "latitude": 34.0556,
+    "longitude": -118.2461
+  },
+  {
+    "id": "miami-bayfront-park-fireworks-2026",
+    "title": "Miami Bayfront Park Fireworks 2026",
+    "slug": "miami-bayfront-park-fireworks-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Miami",
+    "venue": "Bayfront Park",
+    "address": "301 Biscayne Blvd, Miami, FL 33132",
+    "startDate": "2026-07-04T21:00:00-04:00",
+    "endDate": "2026-07-04T21:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.miamigov.com/",
+    "sourceName": "City of Miami",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Bayfront Park hosts Miami's flagship Independence Day fireworks over Biscayne Bay.",
+    "description": "The City of Miami operates the Bayfront Park July 4 program with stage music and fireworks over Biscayne Bay.",
+    "viewingTips": [
+      "Bayfront Park amphitheater lawn has the closest view but fills by 7pm.",
+      "PortMiami eastern bulkhead is the best alternative."
+    ],
+    "parkingTips": [
+      "InterContinental and JW Marriott garages stay open until 2am.",
+      "Biscayne Boulevard closes 6pm to midnight."
+    ],
+    "transitTips": [
+      "Metromover Bayfront Park and College/Bayside stations are free and run every 90 seconds."
+    ],
+    "safetyNotes": [
+      "Tropical thunderstorms can trigger short-notice postponements — check Miami 311 social channels at 6pm."
+    ],
+    "image": "/images/photos/citywide-fireworks-05.webp",
+    "latitude": 25.7745,
+    "longitude": -80.1865
+  },
+  {
+    "id": "tampa-boom-by-the-bay-2026",
+    "title": "Tampa Boom by the Bay 2026",
+    "slug": "tampa-boom-by-the-bay-2026",
+    "country": "US",
+    "state": "FL",
+    "city": "Tampa",
+    "venue": "Curtis Hixon Waterfront Park",
+    "address": "600 N Ashley Dr, Tampa, FL 33602",
+    "startDate": "2026-07-04T21:15:00-04:00",
+    "endDate": "2026-07-04T21:45:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.tampa.gov/",
+    "sourceName": "City of Tampa",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Tampa's Boom by the Bay launches fireworks over the Hillsborough River at Curtis Hixon Waterfront Park.",
+    "description": "The City of Tampa operates Boom by the Bay with stage programming and a fireworks finale over the river.",
+    "viewingTips": [
+      "Curtis Hixon Park lawn is the official viewing zone.",
+      "The Riverwalk between Tampa Museum of Art and Glazer Children's Museum stays open."
+    ],
+    "parkingTips": [
+      "Convention Center and Poe Garage have validated event parking.",
+      "Ashley Drive closes 6pm to midnight."
+    ],
+    "transitTips": [
+      "TECO Streetcar runs free service through 1am on July 4."
+    ],
+    "safetyNotes": [
+      "Riverwalk railings are low — keep small children on the inland side."
+    ],
+    "image": "/images/photos/waterfront-fireworks.webp",
+    "latitude": 27.948,
+    "longitude": -82.4604
+  },
+  {
+    "id": "detroit-river-days-fireworks-2026",
+    "title": "Detroit River Days Fireworks 2026",
+    "slug": "detroit-river-days-fireworks-2026",
+    "country": "US",
+    "state": "MI",
+    "city": "Detroit",
+    "venue": "Hart Plaza",
+    "address": "Hart Plaza, Detroit, MI",
+    "startDate": "2026-07-04T22:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.visitdetroit.com/",
+    "sourceName": "Visit Detroit",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Detroit's riverfront fireworks at Hart Plaza coordinate with Windsor for a cross-border display.",
+    "description": "Detroit and Windsor coordinate a binational fireworks display over the Detroit River.",
+    "viewingTips": [
+      "Hart Plaza lawn and the Renaissance Center Riverwalk are the main viewing areas.",
+      "Belle Isle Park (Sunset Point) is the best uncrowded alternative."
+    ],
+    "parkingTips": [
+      "Cobo Center garage and Greektown garages stay open until 1am.",
+      "Jefferson Avenue closes between Woodward and Randolph at 5pm."
+    ],
+    "transitTips": [
+      "QLine streetcar runs every 15 minutes through 1am."
+    ],
+    "safetyNotes": [
+      "Border security applies to any item carried near the Riverwalk waterline — no drones."
+    ],
+    "image": "/images/photos/citywide-fireworks-05.webp",
+    "latitude": 42.3284,
+    "longitude": -83.0432
+  },
+  {
+    "id": "new-orleans-go-4th-on-river-2026",
+    "title": "New Orleans Go 4th on the River 2026",
+    "slug": "new-orleans-go-4th-on-the-river-2026",
+    "country": "US",
+    "state": "LA",
+    "city": "New Orleans",
+    "venue": "Mississippi River",
+    "address": "Mississippi Riverfront, New Orleans, LA",
+    "startDate": "2026-07-04T21:00:00-05:00",
+    "endDate": "2026-07-04T21:30:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.go4thontheriver.com/",
+    "sourceName": "Go 4th on the River",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Go 4th on the River is New Orleans' dual-barge fireworks launch over the Mississippi River.",
+    "description": "Go 4th on the River is a coordinated fireworks event launched from two barges in the Mississippi River with viewing from the French Quarter and Algiers Point.",
+    "viewingTips": [
+      "Woldenberg Park is the closest French Quarter view.",
+      "Algiers Point levee gives the best skyline-framed view."
+    ],
+    "parkingTips": [
+      "French Quarter garages (Premium Parking 8, Iberville lot) stay open until 1am.",
+      "Decatur Street between Canal and Esplanade closes 6pm to midnight."
+    ],
+    "transitTips": [
+      "RTA Streetcar runs every 12 minutes on Canal and Riverfront lines.",
+      "Algiers Ferry runs every 30 minutes until 11:45pm."
+    ],
+    "safetyNotes": [
+      "Levee stairs near Woldenberg Park are slick after evening showers."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 29.9511,
+    "longitude": -90.0715
+  },
+  {
+    "id": "honolulu-ala-moana-fireworks-2026",
+    "title": "Honolulu Ala Moana Beach Fireworks 2026",
+    "slug": "honolulu-ala-moana-beach-fireworks-2026",
+    "country": "US",
+    "state": "HI",
+    "city": "Honolulu",
+    "venue": "Ala Moana Beach Park",
+    "address": "1201 Ala Moana Blvd, Honolulu, HI 96814",
+    "startDate": "2026-07-04T20:30:00-10:00",
+    "endDate": "2026-07-04T21:00:00-10:00",
+    "timezone": "Pacific/Honolulu",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.honolulu.gov/parks",
+    "sourceName": "Honolulu Department of Parks and Recreation",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Ala Moana Beach Park hosts Oahu's largest public Independence Day fireworks.",
+    "description": "Honolulu City and County Parks operate the Ala Moana Beach Park fireworks with public viewing along Magic Island and the main beach.",
+    "viewingTips": [
+      "Magic Island peninsula provides the closest barge view.",
+      "Kakaako Waterfront Park gives a wider panoramic alternative."
+    ],
+    "parkingTips": [
+      "Ala Moana Beach Park lots fill by 6pm — overflow uses Ward Centre garage."
+    ],
+    "transitTips": [
+      "TheBus routes 8, 19, and 23 run every 15 minutes through 11pm."
+    ],
+    "safetyNotes": [
+      "Marine traffic on Ala Moana lagoon halts 1 hour before launch.",
+      "Trade-wind shift can blow smoke onshore — sensitive groups should sit east of the launch."
+    ],
+    "image": "/images/photos/beach-fireworks.webp",
+    "latitude": 21.3099,
+    "longitude": -157.8581
+  },
+  {
+    "id": "denver-civic-center-fireworks-2026",
+    "title": "Denver Civic Center Fireworks 2026",
+    "slug": "denver-civic-center-fireworks-2026",
+    "country": "US",
+    "state": "CO",
+    "city": "Denver",
+    "venue": "Civic Center Park",
+    "address": "101 W 14th Ave Pkwy, Denver, CO 80204",
+    "startDate": "2026-07-04T21:30:00-06:00",
+    "endDate": "2026-07-04T22:00:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.denvergov.org/",
+    "sourceName": "City and County of Denver",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Civic Center Park hosts Denver's downtown Independence Day fireworks.",
+    "description": "The City and County of Denver operates Civic Center fireworks following the Independence Day Eve concert.",
+    "viewingTips": [
+      "Civic Center Park front lawn faces the State Capitol — best view.",
+      "Veterans Park (16th Street Mall) is a quieter walking-distance alternative."
+    ],
+    "parkingTips": [
+      "Convention Center, Tabor Center, and Cherry Creek garages have late-night re-entry.",
+      "Broadway closes 5pm to midnight."
+    ],
+    "transitTips": [
+      "RTD Light Rail D, E, F, H lines exit at Civic Center station."
+    ],
+    "safetyNotes": [
+      "Mile-high elevation makes evening temperatures drop to 58°F — bring layers."
+    ],
+    "image": "/images/photos/dc-fireworks-03.webp",
+    "latitude": 39.7392,
+    "longitude": -104.9847
+  },
+  {
+    "id": "denver-coors-field-fireworks-2026",
+    "title": "Coors Field Fireworks Night 2026",
+    "slug": "denver-coors-field-fireworks-night-2026",
+    "country": "US",
+    "state": "CO",
+    "city": "Denver",
+    "venue": "Coors Field",
+    "address": "2001 Blake St, Denver, CO 80205",
+    "startDate": "2026-07-04T22:00:00-06:00",
+    "endDate": "2026-07-04T22:30:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "stadium-fireworks",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.mlb.com/rockies/ballpark",
+    "sourceName": "Colorado Rockies (Coors Field)",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "The Colorado Rockies host the city's biggest postgame fireworks on July 4 at Coors Field.",
+    "description": "Coors Field stages a 30-minute postgame fireworks show on July 4 with paid stadium and free LoDo street viewing.",
+    "viewingTips": [
+      "Coors Field Rooftop bleachers (Rockpile) sell same-day tickets at 2pm.",
+      "Wynkoop and 20th Street rooftop bars are the best free alternative."
+    ],
+    "parkingTips": [
+      "Convention Center, Lower Downtown, and Union Station garages have postgame capacity."
+    ],
+    "transitTips": [
+      "RTD A Line and 16th Street Mall shuttle connect at Union Station."
+    ],
+    "safetyNotes": [
+      "LoDo streets between 19th and 21st close to vehicles for 1 hour after fireworks."
+    ],
+    "image": "/images/photos/citywide-fireworks-02.webp",
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "id": "indianapolis-downtown-fireworks-2026",
+    "title": "Downtown Indy Fourth Fest 2026",
+    "slug": "indianapolis-downtown-fourth-fest-2026",
+    "country": "US",
+    "state": "IN",
+    "city": "Indianapolis",
+    "venue": "White River State Park",
+    "address": "801 W Washington St, Indianapolis, IN 46204",
+    "startDate": "2026-07-04T22:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://downtownindy.org/",
+    "sourceName": "Downtown Indy Inc.",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Indianapolis closes Independence Day with fireworks over White River State Park.",
+    "description": "Downtown Indy Inc. operates the Fourth Fest celebration with fireworks visible from the central Indianapolis canal walk.",
+    "viewingTips": [
+      "White River State Park lawn has the closest view.",
+      "NCAA Hall of Champions plaza and Indianapolis Zoo Plaza are the quieter alternatives."
+    ],
+    "parkingTips": [
+      "White River garage and Lucas Oil Stadium West lot have event parking.",
+      "West Street closes 6pm to midnight."
+    ],
+    "transitTips": [
+      "IndyGo Red Line bus rapid transit runs every 10 minutes through 12:30am."
+    ],
+    "safetyNotes": [
+      "Canal walkways narrow and unlit — keep flashlights for the post-show walk."
+    ],
+    "image": "/images/photos/citywide-fireworks-04.webp",
+    "latitude": 39.7684,
+    "longitude": -86.1581
+  },
+  {
+    "id": "chicago-navy-pier-fireworks-2026",
+    "title": "Navy Pier Independence Day Fireworks 2026",
+    "slug": "chicago-navy-pier-fireworks-2026",
+    "country": "US",
+    "state": "IL",
+    "city": "Chicago",
+    "venue": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "startDate": "2026-07-04T22:15:00-05:00",
+    "endDate": "2026-07-04T22:30:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://navypier.org/",
+    "sourceName": "Navy Pier",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Navy Pier launches its summer fireworks series with an extended Independence Day program.",
+    "description": "Navy Pier operates two summer fireworks evenings per week from May through August, with an extended Independence Day finale.",
+    "viewingTips": [
+      "Pier rotunda gives the closest view but fills by 8pm.",
+      "Olive Park (Streeter Drive) is the underrated near-pier alternative."
+    ],
+    "parkingTips": [
+      "Navy Pier garage rates jump to $50 on July 4 — Streeter Drive surface lots are cheaper.",
+      "Grand Avenue closes east of Stetson at 5pm."
+    ],
+    "transitTips": [
+      "CTA bus route 124 runs Navy Pier to Union Station every 7 minutes."
+    ],
+    "safetyNotes": [
+      "Lake Michigan winds shift smoke unpredictably — sensitive groups should sit east of the pier."
+    ],
+    "image": "/images/photos/chicago-fireworks-03.webp",
+    "latitude": 41.8919,
+    "longitude": -87.6051
+  },
+  {
+    "id": "san-antonio-stars-stripes-2026",
+    "title": "San Antonio Stars and Stripes Over San Antonio 2026",
+    "slug": "san-antonio-stars-and-stripes-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "San Antonio",
+    "venue": "Woodlawn Lake Park",
+    "address": "1103 Cincinnati Ave, San Antonio, TX 78201",
+    "startDate": "2026-07-04T21:30:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://saparks.org/events/the-h-e-b-fourth-of-july-celebration/",
+    "sourceName": "San Antonio Parks Foundation",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Stars and Stripes Over San Antonio launches fireworks over Woodlawn Lake.",
+    "description": "San Antonio Parks and Recreation hosts Stars and Stripes Over San Antonio with stage music and a fireworks finale.",
+    "viewingTips": [
+      "Woodlawn Lake Park east shoreline has the closest view.",
+      "Olmos Basin Park is the secondary viewing area for overflow crowds."
+    ],
+    "parkingTips": [
+      "Free shuttle from Jefferson High School parking lot runs every 15 minutes.",
+      "Cincinnati Avenue closes 5pm to midnight."
+    ],
+    "transitTips": [
+      "VIA bus 76 reroutes around the lake."
+    ],
+    "safetyNotes": [
+      "Mosquito spray is provided at entry stations; lake-edge grass is the highest-density area."
+    ],
+    "image": "/images/photos/chicago-fireworks-02.webp",
+    "latitude": 29.4241,
+    "longitude": -98.4936
+  },
+  {
+    "id": "pittsburgh-point-state-park-2026",
+    "title": "Pittsburgh Point State Park Fireworks 2026",
+    "slug": "pittsburgh-point-state-park-fireworks-2026",
+    "country": "US",
+    "state": "PA",
+    "city": "Pittsburgh",
+    "venue": "Point State Park",
+    "address": "601 Commonwealth Pl, Pittsburgh, PA 15222",
+    "startDate": "2026-07-04T21:30:00-04:00",
+    "endDate": "2026-07-04T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.pittsburghpa.gov/",
+    "sourceName": "City of Pittsburgh",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Pittsburgh's flagship Independence Day fireworks launch from Point State Park at the rivers' confluence.",
+    "description": "The City of Pittsburgh operates the EQT Three Rivers fireworks with viewing from both North and South Shore.",
+    "viewingTips": [
+      "Point State Park fountain plaza is the closest official viewing.",
+      "North Shore Trail near Acrisure Stadium gives unobstructed cross-river view.",
+      "Mount Washington Grandview Overlook is the premium aerial view."
+    ],
+    "parkingTips": [
+      "North Shore garages stay open until 1am.",
+      "Fort Pitt Boulevard and Commonwealth Place close at 5pm."
+    ],
+    "transitTips": [
+      "Port Authority T light rail exits at Gateway Center."
+    ],
+    "safetyNotes": [
+      "Mount Washington stairs are uneven — bring flashlights for the descent."
+    ],
+    "image": "/images/photos/park-fireworks.webp",
+    "latitude": 40.4406,
+    "longitude": -79.9959
+  },
+  {
+    "id": "houston-freedom-over-texas-2026",
+    "title": "Freedom Over Texas Fireworks 2026",
+    "slug": "houston-freedom-over-texas-fireworks-2026",
+    "country": "US",
+    "state": "TX",
+    "city": "Houston",
+    "venue": "Eleanor Tinsley Park",
+    "address": "500 Allen Pkwy, Houston, TX 77019",
+    "startDate": "2026-07-04T21:35:00-05:00",
+    "endDate": "2026-07-04T22:00:00-05:00",
+    "timezone": "America/Chicago",
+    "eventType": "festival",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.houstontx.gov/",
+    "sourceName": "City of Houston",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Freedom Over Texas is Houston's ticketed Independence Day festival ending with citywide fireworks.",
+    "description": "The City of Houston operates Freedom Over Texas at Eleanor Tinsley Park; the fireworks finale is visible from Buffalo Bayou greenway and downtown rooftops.",
+    "viewingTips": [
+      "Tinsley Park lawn requires a $10 ticket through Houston Parks online portal.",
+      "Sabine Street Bridge is the closest free viewing."
+    ],
+    "parkingTips": [
+      "Theater District garages stay open until 1am.",
+      "Allen Parkway closes between Shepherd and Bagby at 4pm."
+    ],
+    "transitTips": [
+      "METRORail Red Line exits at Theater District."
+    ],
+    "safetyNotes": [
+      "Heat advisories often extend through 10pm — water stations at every park entrance."
+    ],
+    "image": "/images/photos/july4-fireworks-05.webp",
+    "latitude": 29.7604,
+    "longitude": -95.3698
+  },
+  {
+    "id": "nyc-coney-island-fireworks-2026",
+    "title": "Coney Island Friday Night Fireworks 2026",
+    "slug": "nyc-coney-island-friday-night-fireworks-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "Brooklyn",
+    "venue": "Coney Island Boardwalk",
+    "address": "Coney Island Boardwalk, Brooklyn, NY",
+    "startDate": "2026-07-03T21:30:00-04:00",
+    "endDate": "2026-07-03T22:00:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "public-display",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.coneyisland.com/",
+    "sourceName": "Coney Island",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Coney Island's Friday Night Fireworks series stages an extended program over the holiday weekend.",
+    "description": "Luna Park and Coney Island USA partner on the Coney Island Friday Night Fireworks series that runs through the summer with an enhanced Independence Day weekend show.",
+    "viewingTips": [
+      "Steeplechase Pier offers a free elevated boardwalk view.",
+      "Stillwell Avenue side gives a clear west-coast view."
+    ],
+    "parkingTips": [
+      "Surf Avenue lots fill by 4pm; MCU Park lots open after 8pm."
+    ],
+    "transitTips": [
+      "D, F, N, Q lines terminate at Stillwell Avenue/Coney Island.",
+      "Service runs every 8 minutes through 1:30am."
+    ],
+    "safetyNotes": [
+      "Boardwalk benches are unfenced from the beach — keep small children on the inland side."
+    ],
+    "image": "/images/photos/new-york-fireworks-04.webp",
+    "latitude": 40.6782,
+    "longitude": -73.9442
+  },
+  {
+    "id": "san-jose-discovery-park-2026",
+    "title": "San Jose Discovery Park Fourth of July 2026",
+    "slug": "san-jose-discovery-park-fourth-of-july-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "San Jose",
+    "venue": "Discovery Meadow",
+    "address": "180 Woz Way, San Jose, CA 95110",
+    "startDate": "2026-07-04T21:30:00-07:00",
+    "endDate": "2026-07-04T22:00:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.sanjoseca.gov/",
+    "sourceName": "City of San Jose",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "San Jose Discovery Park hosts the South Bay's largest free Independence Day fireworks.",
+    "description": "The City of San Jose operates the Rotary Summer Fest at Discovery Meadow with a fireworks finale.",
+    "viewingTips": [
+      "Discovery Meadow lawn is the primary viewing area.",
+      "Diridon Station overhead pedestrian walkway is a quieter alternative."
+    ],
+    "parkingTips": [
+      "SAP Center garage and Adobe garage stay open until 1am.",
+      "Auzerais Avenue closes east of Bird Avenue at 6pm."
+    ],
+    "transitTips": [
+      "VTA Light Rail Green Line exits at San Jose Convention Center.",
+      "Caltrain Capitol Corridor weekend schedule applies on July 4."
+    ],
+    "safetyNotes": [
+      "Discovery Meadow allows blankets but no high-back chairs after 7pm."
+    ],
+    "image": "/images/photos/citywide-fireworks-05.webp",
+    "latitude": 37.3382,
+    "longitude": -121.8863
+  },
+  {
+    "id": "oakland-jack-london-square-2026",
+    "title": "Oakland Jack London Square Fireworks 2026",
+    "slug": "oakland-jack-london-square-fireworks-2026",
+    "country": "US",
+    "state": "CA",
+    "city": "Oakland",
+    "venue": "Jack London Square",
+    "address": "472 Water St, Oakland, CA 94607",
+    "startDate": "2026-07-04T21:00:00-07:00",
+    "endDate": "2026-07-04T21:30:00-07:00",
+    "timezone": "America/Los_Angeles",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://jacklondonsquare.com/",
+    "sourceName": "Jack London Square",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Jack London Square launches Oakland's public Fourth of July fireworks over the estuary.",
+    "description": "Jack London Square operates Oakland's flagship Independence Day fireworks visible from the entire estuary.",
+    "viewingTips": [
+      "Jack London Square promenade has the closest view.",
+      "Alameda Bay Ship Park gives the best Alameda-side perspective."
+    ],
+    "parkingTips": [
+      "Jack London garage and Embarcadero lots stay open until 1am.",
+      "Embarcadero closes between Webster and Jackson at 5pm."
+    ],
+    "transitTips": [
+      "AC Transit O bus runs every 20 minutes from 12th Street BART.",
+      "BART San Francisco - Oakland service runs every 15 minutes through 1am."
+    ],
+    "safetyNotes": [
+      "Estuary railing heights vary — keep small children inland of the painted line."
+    ],
+    "image": "/images/photos/citywide-fireworks-01.webp",
+    "latitude": 37.8044,
+    "longitude": -122.2712
+  },
+  {
+    "id": "buffalo-canalside-fireworks-2026",
+    "title": "Buffalo Canalside Fireworks 2026",
+    "slug": "buffalo-canalside-fireworks-2026",
+    "country": "US",
+    "state": "NY",
+    "city": "Buffalo",
+    "venue": "Canalside Buffalo",
+    "address": "44 Prime St, Buffalo, NY 14202",
+    "startDate": "2026-07-04T22:00:00-04:00",
+    "endDate": "2026-07-04T22:30:00-04:00",
+    "timezone": "America/New_York",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://buffalowaterfront.com/events/4th-of-july-weekend-on-the-waterfront?date=Saturday%2C+July+4%2C+2026",
+    "sourceName": "Buffalo Waterfront",
+    "verifiedAt": "2026-05-30",
+    "lastUpdated": "2026-05-30",
+    "summary": "Canalside Buffalo hosts the city's flagship Independence Day fireworks over Lake Erie.",
+    "description": "The Erie Canal Harbor Development Corporation operates Canalside's Independence Day fireworks.",
+    "viewingTips": [
+      "Canalside boardwalk has the closest view.",
+      "Outer Harbor Wilkeson Pointe is the best alternative."
+    ],
+    "parkingTips": [
+      "Canalside lots and the Adams Mark Buffalo garage stay open until 1am.",
+      "Main Street closes south of Exchange at 4pm."
+    ],
+    "transitTips": [
+      "NFTA Metro Rail extends to 1am on July 4."
+    ],
+    "safetyNotes": [
+      "Lake Erie winds shift smoke unpredictably — sensitive groups should sit east of the launch."
+    ],
+    "image": "/images/photos/citywide-fireworks-03.webp",
+    "latitude": 42.8773,
+    "longitude": -78.8819
+  },
+  {
+    "id": "slc-sugar-house-fireworks-2026",
+    "title": "Salt Lake City Sugar House Park Fireworks 2026",
+    "slug": "slc-sugar-house-park-fireworks-2026",
+    "country": "US",
+    "state": "UT",
+    "city": "Salt Lake City",
+    "venue": "Sugar House Park",
+    "address": "1330 E 2100 S, Salt Lake City, UT 84106",
+    "startDate": "2026-07-04T22:00:00-06:00",
+    "endDate": "2026-07-04T22:30:00-06:00",
+    "timezone": "America/Denver",
+    "eventType": "community-event",
+    "status": "confirmed",
+    "isFree": true,
+    "officialUrl": "https://www.slc.gov/",
+    "sourceName": "Salt Lake City Corporation",
+    "verifiedAt": "2026-05-27",
+    "lastUpdated": "2026-05-27",
+    "summary": "Sugar House Park hosts Salt Lake City's public Independence Day fireworks with valley-wide visibility.",
+    "description": "Salt Lake City operates the Sugar House Park fireworks with stage programming and family viewing.",
+    "viewingTips": [
+      "Sugar House Park north hill gives a high-ground view above the launch.",
+      "Liberty Park is the quieter walk-up alternative."
+    ],
+    "parkingTips": [
+      "Highland Drive and 2100 South close to vehicles at 5pm.",
+      "TRAX Sugar House Streetcar parking is the best stress-free option."
+    ],
+    "transitTips": [
+      "UTA TRAX runs every 15 minutes through 11:30pm.",
+      "Sugar House S-Line Streetcar runs every 20 minutes."
+    ],
+    "safetyNotes": [
+      "Park stays dry — bring water; high elevation increases dehydration risk."
+    ],
+    "image": "/images/photos/chicago-fireworks-02.webp",
+    "latitude": 40.7608,
+    "longitude": -111.891
+  }
+]

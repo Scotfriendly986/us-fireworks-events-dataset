@@ -1,0 +1,881 @@
+[
+  {
+    "country": "US",
+    "state": "AZ",
+    "stateSlug": "az",
+    "city": "Phoenix",
+    "slug": "phoenix",
+    "timezone": "America/Phoenix",
+    "intro": "Greater Phoenix hosts multiple metropolitan July 4 displays including Westgate Entertainment District (Glendale) and Margaret T. Hance Park downtown.",
+    "bestViewingAreas": [
+      "Margaret T. Hance Park",
+      "Westgate Entertainment District (Glendale)",
+      "Steele Indian School Park",
+      "Salt River Fields shore (Scottsdale)"
+    ],
+    "transitTips": [
+      "Valley Metro Light Rail runs extended late hours on July 4 with stops at Roosevelt/Central for Hance Park.",
+      "Use Park-and-Ride at Sycamore/Main for downtown."
+    ],
+    "localSafetyUrl": "https://www.phoenix.gov/fire"
+  },
+  {
+    "country": "US",
+    "state": "AZ",
+    "stateSlug": "az",
+    "city": "Tempe",
+    "slug": "tempe",
+    "timezone": "America/Phoenix",
+    "intro": "Tempe Town Lake hosts the annual Fabulous Phoenix 4th sister event with shoreline viewing on both north and south banks.",
+    "bestViewingAreas": [
+      "Tempe Town Lake North Shore",
+      "Tempe Beach Park",
+      "Tempe Center for the Arts lawn"
+    ],
+    "localSafetyUrl": "https://www.tempe.gov/government/fire-medical-rescue-department"
+  },
+  {
+    "country": "US",
+    "state": "CA",
+    "stateSlug": "ca",
+    "city": "San Francisco",
+    "slug": "san-francisco",
+    "timezone": "America/Los_Angeles",
+    "intro": "San Francisco has multiple verified public fireworks events and family viewing points during major holiday windows.",
+    "bestViewingAreas": [
+      "The Embarcadero",
+      "Pier 39",
+      "Crissy Field"
+    ],
+    "localSafetyUrl": "https://sf.gov/"
+  },
+  {
+    "country": "US",
+    "state": "CA",
+    "stateSlug": "ca",
+    "city": "Corona",
+    "slug": "corona",
+    "timezone": "America/Los_Angeles",
+    "intro": "Corona's official event page supports family-centered July 4th parade and fireworks planning.",
+    "bestViewingAreas": [
+      "Main Street USA route",
+      "Community event viewing blocks",
+      "Official crowd staging areas"
+    ],
+    "arrivalTips": [
+      "Use city updates for parade timing and closure windows.",
+      "Choose a post-event pickup route before the finale."
+    ],
+    "localSafetyUrl": "https://community.coronaca.gov/"
+  },
+  {
+    "country": "US",
+    "state": "CA",
+    "stateSlug": "ca",
+    "city": "Los Angeles",
+    "slug": "los-angeles",
+    "timezone": "America/Los_Angeles",
+    "intro": "Los Angeles fireworks planning now centers on verified venue pages such as Hollywood Bowl, where shuttle, parking, and entry rules matter as much as viewing position.",
+    "bestViewingAreas": [
+      "Hollywood Bowl",
+      "Official venue seating",
+      "Signed shuttle and pickup zones"
+    ],
+    "arrivalTips": [
+      "Check the official venue page for ticket, gate, and bag policy details.",
+      "Use shuttle or venue parking instructions instead of improvising near Highland Avenue."
+    ],
+    "localSafetyUrl": "https://lacity.gov/"
+  },
+  {
+    "country": "US",
+    "state": "CA",
+    "stateSlug": "ca",
+    "city": "San Diego",
+    "slug": "san-diego",
+    "timezone": "America/Los_Angeles",
+    "intro": "San Diego public displays are mostly family-oriented and run with local coast patrol and police guidance.",
+    "bestViewingAreas": [
+      "Downtown Waterfront",
+      "Bayfront Public Parks"
+    ],
+    "localSafetyUrl": "https://www.sandiego.gov/"
+  },
+  {
+    "country": "US",
+    "state": "CA",
+    "stateSlug": "ca",
+    "city": "Graeagle",
+    "slug": "graeagle",
+    "timezone": "America/Los_Angeles",
+    "intro": "Graeagle's verified community fireworks page is useful for rural mountain-town arrival planning and fire-safety checks.",
+    "bestViewingAreas": [
+      "Graeagle Mill Pond",
+      "Town center public areas",
+      "Signed community viewing zones"
+    ],
+    "arrivalTips": [
+      "Arrive before dusk because two-lane access roads can slow down quickly.",
+      "Check local fire-safety notices before traveling into the area."
+    ],
+    "localSafetyUrl": "https://graeaglefireworks.org/"
+  },
+  {
+    "country": "US",
+    "state": "CO",
+    "stateSlug": "co",
+    "city": "Fort Lupton",
+    "slug": "fort-lupton",
+    "timezone": "America/Denver",
+    "intro": "Fort Lupton's official Independence Day Festival page supports practical park arrival, parking, and family viewing planning.",
+    "bestViewingAreas": [
+      "Community Center Park",
+      "Official festival areas",
+      "Signed family viewing zones"
+    ],
+    "arrivalTips": [
+      "Check the city page before traveling for activity and fireworks timing.",
+      "Keep emergency lanes and park service roads clear."
+    ],
+    "localSafetyUrl": "https://www.fortluptonco.gov/"
+  },
+  {
+    "country": "US",
+    "state": "CO",
+    "stateSlug": "co",
+    "city": "Gypsum",
+    "slug": "gypsum",
+    "timezone": "America/Denver",
+    "intro": "Gypsum's official town event page is useful for mountain-community fire restriction checks and staged departures.",
+    "bestViewingAreas": [
+      "Lundgren Amphitheater",
+      "Official town viewing areas",
+      "Signed park spaces"
+    ],
+    "arrivalTips": [
+      "Review town updates for weather and fire restriction changes.",
+      "Arrive before the evening window because local parking is limited."
+    ],
+    "localSafetyUrl": "https://www.townofgypsum.com/"
+  },
+  {
+    "country": "US",
+    "state": "DC",
+    "stateSlug": "dc",
+    "city": "Washington",
+    "slug": "washington",
+    "timezone": "America/New_York",
+    "intro": "Washington, D.C. combines parade routes and waterfront watch points for America250 and city-supported July 4th gatherings.",
+    "bestViewingAreas": [
+      "National Mall",
+      "Potomac Riverfront edges",
+      "Lincoln Memorial vicinity"
+    ],
+    "localSafetyUrl": "https://www.wmata.com/"
+  },
+  {
+    "country": "US",
+    "state": "FL",
+    "stateSlug": "fl",
+    "city": "Miami",
+    "slug": "miami",
+    "timezone": "America/New_York",
+    "intro": "Miami has multiple official city-linked July 4 options at bayfront and beachfront districts.",
+    "bestViewingAreas": [
+      "Bayfront Park",
+      "Lummus Park",
+      "Downtown Ferry Landing"
+    ],
+    "localSafetyUrl": "https://www.miami.gov/"
+  },
+  {
+    "country": "US",
+    "state": "FL",
+    "stateSlug": "fl",
+    "city": "Sarasota",
+    "slug": "sarasota",
+    "timezone": "America/New_York",
+    "intro": "Sarasota publishes its 250th America celebrations schedule with family events and public fireworks windows.",
+    "bestViewingAreas": [
+      "Bayfront Park",
+      "River and park frontage",
+      "Official downtown access routes"
+    ],
+    "arrivalTips": [
+      "Use the official celebration page for updated event windows.",
+      "Plan pickup routes to avoid road closures after the fireworks night."
+    ],
+    "localSafetyUrl": "https://www.sarasotafl.gov/"
+  },
+  {
+    "country": "US",
+    "state": "FL",
+    "stateSlug": "fl",
+    "city": "Tampa",
+    "slug": "tampa",
+    "timezone": "America/New_York",
+    "intro": "Tampa supports family-facing waterfront displays with formal transit guidance and city advisories.",
+    "bestViewingAreas": [
+      "Tampa Riverwalk",
+      "Waterfront Park Zones",
+      "Central Pier Access"
+    ],
+    "localSafetyUrl": "https://www.tampa.gov/"
+  },
+  {
+    "country": "US",
+    "state": "FL",
+    "stateSlug": "fl",
+    "city": "Orlando",
+    "slug": "orlando",
+    "timezone": "America/New_York",
+    "intro": "Orlando centers its official July 4 fireworks planning around Lake Eola Park, downtown garages, and city event updates.",
+    "bestViewingAreas": [
+      "Lake Eola Park lawns",
+      "Downtown lake perimeter",
+      "Signed family viewing zones"
+    ],
+    "arrivalTips": [
+      "Use the official event page for park opening and entertainment windows.",
+      "Pick a lake-side exit route before the fireworks begin."
+    ],
+    "localSafetyUrl": "https://www.orlando.gov/"
+  },
+  {
+    "country": "US",
+    "state": "GA",
+    "stateSlug": "ga",
+    "city": "Atlanta",
+    "slug": "atlanta",
+    "timezone": "America/New_York",
+    "intro": "Atlanta's main July 4 celebrations center on Centennial Olympic Park (Fourth in the Park) and Lenox Square, with MARTA rail extending late service.",
+    "bestViewingAreas": [
+      "Centennial Olympic Park lawn",
+      "Lenox Square parking deck rooftop (public access until full)",
+      "Piedmont Park elevated meadow",
+      "Stone Mountain Park (separate paid event)"
+    ],
+    "transitTips": [
+      "MARTA Red and Gold lines exit at Five Points for Centennial Park, Lenox station for Lenox Square.",
+      "Trains run on a Saturday schedule with added July 4 trips."
+    ],
+    "parkingTips": [
+      "Centennial Park district garages reserve up to 60% capacity for event passes — pre-book on ParkATL.",
+      "Lenox Square road closure begins at Peachtree at 4pm."
+    ],
+    "localSafetyUrl": "https://www.atlantaga.gov/government/departments/fire-rescue"
+  },
+  {
+    "country": "US",
+    "state": "GA",
+    "stateSlug": "ga",
+    "city": "Savannah",
+    "slug": "savannah",
+    "timezone": "America/New_York",
+    "intro": "Savannah's Fourth of July fireworks launch over the Savannah River with public viewing from River Street and along the Hutchinson Island shoreline.",
+    "bestViewingAreas": [
+      "River Street",
+      "Rousakis Plaza",
+      "Hutchinson Island ferry waiting plaza"
+    ],
+    "localSafetyUrl": "https://www.savannahga.gov/247/Fire-Department"
+  },
+  {
+    "country": "US",
+    "state": "IL",
+    "stateSlug": "il",
+    "city": "Chicago",
+    "slug": "chicago",
+    "timezone": "America/Chicago",
+    "intro": "Chicago public waterfront spaces and city guidance support major holiday traffic and family viewing windows.",
+    "bestViewingAreas": [
+      "Lakefront Trail",
+      "Navy Pier",
+      "Grant Park"
+    ],
+    "localSafetyUrl": "https://www.chicago.gov/"
+  },
+  {
+    "country": "US",
+    "state": "IN",
+    "stateSlug": "in",
+    "city": "Westfield",
+    "slug": "westfield",
+    "timezone": "America/Indiana/Indianapolis",
+    "intro": "Westfield's official Rocks the 4th page supports Grand Park arrival planning, parking choices, and family viewing routes.",
+    "bestViewingAreas": [
+      "Grand Park Sports Campus",
+      "Official event fields",
+      "Signed family zones"
+    ],
+    "arrivalTips": [
+      "Use the city event page for parking entrances and timing.",
+      "Choose pickup points outside the main campus loop."
+    ],
+    "localSafetyUrl": "https://www.westfieldin.gov/"
+  },
+  {
+    "country": "US",
+    "state": "MA",
+    "stateSlug": "ma",
+    "city": "Boston",
+    "slug": "boston",
+    "timezone": "America/New_York",
+    "intro": "Boston's July 4 planning centers on the Charles River Esplanade, official entry guidance, and transit-first movement.",
+    "bestViewingAreas": [
+      "Charles River Esplanade",
+      "Cambridge riverfront edges",
+      "Official family viewing zones"
+    ],
+    "arrivalTips": [
+      "Use official event entry guidance before choosing an Esplanade access point.",
+      "Plan a slower post-event exit through MBTA-connected corridors."
+    ],
+    "localSafetyUrl": "https://www.bostonpopsjuly4th.org/"
+  },
+  {
+    "country": "US",
+    "state": "MD",
+    "stateSlug": "md",
+    "city": "Rockville",
+    "slug": "rockville",
+    "timezone": "America/New_York",
+    "intro": "Rockville's official Independence Day page helps families plan park access, entertainment timing, and post-fireworks exits.",
+    "bestViewingAreas": [
+      "Mattie J.T. Stepanek Park",
+      "Official park lawns",
+      "Signed public viewing areas"
+    ],
+    "arrivalTips": [
+      "Use city parking instructions before entering the park area.",
+      "Choose a secondary pickup point before the fireworks begin."
+    ],
+    "localSafetyUrl": "https://www.rockvillemd.gov/"
+  },
+  {
+    "country": "US",
+    "state": "MN",
+    "stateSlug": "mn",
+    "city": "Minneapolis",
+    "slug": "minneapolis",
+    "timezone": "America/Chicago",
+    "intro": "Minneapolis's Red, White and Boom! event combines Mississippi Riverfront fireworks with downtown stage programming and family viewing along Boom Island Park.",
+    "bestViewingAreas": [
+      "Boom Island Park",
+      "Nicollet Island",
+      "Stone Arch Bridge",
+      "Father Hennepin Bluff Park"
+    ],
+    "transitTips": [
+      "Metro Transit Blue and Green light rail run extended July 4 service.",
+      "Use Hennepin/Central or Government Plaza stations."
+    ],
+    "localSafetyUrl": "https://www.minneapolismn.gov/government/departments/fire-mfd/"
+  },
+  {
+    "country": "US",
+    "state": "MO",
+    "stateSlug": "mo",
+    "city": "St. Louis",
+    "slug": "st-louis",
+    "timezone": "America/Chicago",
+    "intro": "Fair Saint Louis at the Gateway Arch grounds is one of the country's longest-running Independence Day fireworks events.",
+    "bestViewingAreas": [
+      "Gateway Arch National Park lawn",
+      "Eads Bridge pedestrian walkway",
+      "Malcolm W. Martin Memorial Park (east bank, Illinois side)"
+    ],
+    "transitTips": [
+      "MetroLink Red and Blue lines stop at Convention Center and 8th & Pine for the riverfront.",
+      "Service extends until 1am on July 4."
+    ],
+    "localSafetyUrl": "https://www.stlouis-mo.gov/government/departments/public-safety/fire/"
+  },
+  {
+    "country": "US",
+    "state": "MO",
+    "stateSlug": "mo",
+    "city": "Kansas City",
+    "slug": "kansas-city",
+    "timezone": "America/Chicago",
+    "intro": "Kansas City's Independence Day fireworks center on Berkley Riverfront Park and Kauffman Stadium, with Royals home games featuring postgame shows during the holiday week.",
+    "bestViewingAreas": [
+      "Berkley Riverfront Park",
+      "Kauffman Stadium (ticketed Royals game)",
+      "Liberty Memorial Mall"
+    ],
+    "localSafetyUrl": "https://www.kcmo.gov/city-hall/departments/fire-department"
+  },
+  {
+    "country": "US",
+    "state": "NC",
+    "stateSlug": "nc",
+    "city": "Charlotte",
+    "slug": "charlotte",
+    "timezone": "America/New_York",
+    "intro": "Charlotte's Uptown SkyShow combines Truist Field celebrations with downtown rooftop and First Ward Park viewing.",
+    "bestViewingAreas": [
+      "Truist Field (Charlotte Knights stadium)",
+      "First Ward Park",
+      "Romare Bearden Park",
+      "Uptown rooftop bars (capacity-limited)"
+    ],
+    "transitTips": [
+      "CATS LYNX Blue Line ends at 7th Street for First Ward Park.",
+      "LYNX extends service to 1:30am on July 4."
+    ],
+    "localSafetyUrl": "https://www.charlottenc.gov/CFD"
+  },
+  {
+    "country": "US",
+    "state": "NC",
+    "stateSlug": "nc",
+    "city": "Raleigh",
+    "slug": "raleigh",
+    "timezone": "America/New_York",
+    "intro": "The Works Independence Day celebration in Raleigh combines Dorothea Dix Park and downtown rooftop viewing with capital-square family programming.",
+    "bestViewingAreas": [
+      "Dorothea Dix Park",
+      "North Carolina State Capitol lawn",
+      "Glenwood South rooftop bars (capacity-limited)"
+    ],
+    "localSafetyUrl": "https://raleighnc.gov/fire"
+  },
+  {
+    "country": "US",
+    "state": "NV",
+    "stateSlug": "nv",
+    "city": "Las Vegas",
+    "slug": "las-vegas",
+    "timezone": "America/Los_Angeles",
+    "intro": "Las Vegas combines resort-managed Strip pyrotechnics (Caesars, MGM, The STRAT) with the city-led Downtown rooftop show, all on or around the Las Vegas Strip and Fremont Street.",
+    "bestViewingAreas": [
+      "Las Vegas Strip overpasses (Flamingo / Tropicana pedestrian bridges)",
+      "Downtown Container Park rooftop areas",
+      "Fremont Street Experience",
+      "Stratosphere SkyPod sightlines"
+    ],
+    "transitTips": [
+      "RTC Deuce double-decker buses run extended hours but slow to crawl on the Strip after 9pm — board north of Spring Mountain.",
+      "Las Vegas Monorail runs late on July 4 and NYE."
+    ],
+    "parkingTips": [
+      "Resort self-parking fills by 4pm. Reserve garages off-Strip (e.g., Linq parking, off-Sahara lots) and walk in.",
+      "Las Vegas Boulevard closes to vehicles 6pm to 1am on NYE."
+    ],
+    "localSafetyUrl": "https://www.lasvegasnevada.gov/Residents/Public-Safety"
+  },
+  {
+    "country": "US",
+    "state": "NV",
+    "stateSlug": "nv",
+    "city": "Reno",
+    "slug": "reno",
+    "timezone": "America/Los_Angeles",
+    "intro": "Reno's official Fourth of July event launches from the Truckee River corridor with downtown and West Street public viewing.",
+    "bestViewingAreas": [
+      "Truckee River Walk",
+      "Wingfield Park",
+      "West Street Market District"
+    ],
+    "localSafetyUrl": "https://www.reno.gov/government/departments/fire-department"
+  },
+  {
+    "country": "US",
+    "state": "NY",
+    "stateSlug": "ny",
+    "city": "New York City",
+    "slug": "new-york-city",
+    "timezone": "America/New_York",
+    "intro": "New York City combines verified public city announcements with transit-based access planning for July and New Year displays.",
+    "bestViewingAreas": [
+      "Hudson River Waterfront",
+      "Central Park",
+      "Times area family sections"
+    ],
+    "localSafetyUrl": "https://www1.nyc.gov/"
+  },
+  {
+    "country": "US",
+    "state": "NY",
+    "stateSlug": "ny",
+    "city": "Albany",
+    "slug": "albany",
+    "timezone": "America/New_York",
+    "intro": "Albany hosts city-supported regional displays with crowd guidance and transit links.",
+    "bestViewingAreas": [
+      "Riverside Public Park",
+      "Downtown Civic Plaza"
+    ],
+    "localSafetyUrl": "https://www.albanyny.gov/"
+  },
+  {
+    "country": "US",
+    "state": "OR",
+    "stateSlug": "or",
+    "city": "Portland",
+    "slug": "portland",
+    "timezone": "America/Los_Angeles",
+    "intro": "Portland's Waterfront Blues Festival and the city's July 4 Waterfront Park show share the Tom McCall Waterfront corridor on the Willamette River.",
+    "bestViewingAreas": [
+      "Tom McCall Waterfront Park",
+      "Salmon Street Springs Plaza",
+      "Hawthorne Bridge pedestrian walkway",
+      "OMSI lawn (east side)"
+    ],
+    "transitTips": [
+      "TriMet MAX Blue and Red lines stop at Skidmore Fountain and Yamhill District — short walk to the riverfront.",
+      "Service runs late on July 4."
+    ],
+    "localSafetyUrl": "https://www.portland.gov/fire"
+  },
+  {
+    "country": "US",
+    "state": "PA",
+    "stateSlug": "pa",
+    "city": "Philadelphia",
+    "slug": "philadelphia",
+    "timezone": "America/New_York",
+    "intro": "Philadelphia's Wawa Welcome America route planning depends on the Parkway footprint, SEPTA service, and city event updates.",
+    "bestViewingAreas": [
+      "Benjamin Franklin Parkway",
+      "Eakins Oval vicinity",
+      "Official festival viewing areas"
+    ],
+    "arrivalTips": [
+      "Check the official schedule before choosing arrival time.",
+      "Use a station and walking route outside the densest closure area."
+    ],
+    "localSafetyUrl": "https://july4thphilly.com/"
+  },
+  {
+    "country": "US",
+    "state": "SC",
+    "stateSlug": "sc",
+    "city": "North Myrtle Beach",
+    "slug": "north-myrtle-beach",
+    "timezone": "America/New_York",
+    "intro": "North Myrtle Beach's official July Fourth page is useful for shoreline access, legal parking, and safe beach exits.",
+    "bestViewingAreas": [
+      "Cherry Grove Pier",
+      "Public beach access points",
+      "Signed shoreline viewing areas"
+    ],
+    "arrivalTips": [
+      "Use public beach access points and avoid dune-restricted areas.",
+      "Bring lights for walking back from beach routes after dark."
+    ],
+    "localSafetyUrl": "https://parks.nmb.us/"
+  },
+  {
+    "country": "US",
+    "state": "TN",
+    "stateSlug": "tn",
+    "city": "Nashville",
+    "slug": "nashville",
+    "timezone": "America/Chicago",
+    "intro": "Nashville's Let Freedom Sing! Independence Day celebration is the largest free fireworks display in Tennessee, launching over the Cumberland River with downtown stage programming.",
+    "bestViewingAreas": [
+      "Nissan Stadium parking lots (east bank)",
+      "Riverfront Park (west bank, capacity-managed)",
+      "Korean Veterans Boulevard Bridge",
+      "Cumberland Park"
+    ],
+    "transitTips": [
+      "WeGo Star and WeGo bus run extended July 4 service. Music City Star resumes after the show.",
+      "Pedestrian-only bridges (Korean Veterans, Seigenthaler) close 9pm — choose your bank before then."
+    ],
+    "localSafetyUrl": "https://www.nashville.gov/departments/fire"
+  },
+  {
+    "country": "US",
+    "state": "TN",
+    "stateSlug": "tn",
+    "city": "Memphis",
+    "slug": "memphis",
+    "timezone": "America/Chicago",
+    "intro": "Memphis's Star Spangled Celebration at Tom Lee Park hosts the city's main Independence Day fireworks over the Mississippi River.",
+    "bestViewingAreas": [
+      "Tom Lee Park",
+      "Bluff overlooks at Riverside Drive",
+      "Mud Island River Park"
+    ],
+    "localSafetyUrl": "https://www.memphistn.gov/government/fire/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Houston",
+    "slug": "houston",
+    "timezone": "America/Chicago",
+    "intro": "Houston city channels support multiple July 4th public events with riverfront and downtown access guidance.",
+    "bestViewingAreas": [
+      "Downtown Riverwalk",
+      "City Marina Boulevard",
+      "Municipal Plaza"
+    ],
+    "localSafetyUrl": "https://www.houstontx.gov/public-safety.html"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "San Antonio",
+    "slug": "san-antonio",
+    "timezone": "America/Chicago",
+    "intro": "San Antonio’s Independence Day route planning focuses on riverfront launch zones, downtown gathering points, and coordinated crowd exit paths with early transit communication.",
+    "bestViewingAreas": [
+      "San Antonio Riverwalk corridors",
+      "Alamodome and nearby city staging areas",
+      "Downtown family-friendly riverfront blocks"
+    ],
+    "arrivalTips": [
+      "Use city service bulletins before travel for parking limits and road closure windows.",
+      "Choose one pickup area outside the primary launch perimeter to reduce post-show congestion."
+    ],
+    "localSafetyUrl": "https://www.sanantonio.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "DeSoto",
+    "slug": "desoto",
+    "timezone": "America/Chicago",
+    "intro": "DeSoto's official July 4th event page combines family recreation and fireworks planning for two-day celebrations.",
+    "bestViewingAreas": [
+      "Grimes Park",
+      "Aquatic and Recreation Center grounds",
+      "Community event streets around downtown"
+    ],
+    "arrivalTips": [
+      "Use official event updates for parking and traffic control timing.",
+      "Pick a pickup route before fireworks peak time."
+    ],
+    "localSafetyUrl": "https://www.desototexas.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Austin",
+    "slug": "austin",
+    "timezone": "America/Chicago",
+    "intro": "Austin public options combine music, family viewing and municipal transit advisories for holiday crowds.",
+    "bestViewingAreas": [
+      "Zilker Park East",
+      "Town Lake Edge",
+      "Congress Avenue East Access"
+    ],
+    "localSafetyUrl": "https://www.austintexas.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Addison",
+    "slug": "addison",
+    "timezone": "America/Chicago",
+    "intro": "Addison's Kaboom Town draws regional crowds, so the city page is most useful for entry, parking, and post-show pickup planning.",
+    "bestViewingAreas": [
+      "Addison Circle Park",
+      "Official event viewing areas",
+      "Designated remote viewing points"
+    ],
+    "arrivalTips": [
+      "Confirm event gates and parking routes on the official Kaboom Town page.",
+      "Choose pickup points away from Addison Circle after the fireworks."
+    ],
+    "localSafetyUrl": "https://addisonkaboomtown.com/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "College Station",
+    "slug": "college-station",
+    "timezone": "America/Chicago",
+    "intro": "College Station's I Heart America event page supports park-based arrival planning and family viewing around Wolf Pen Creek.",
+    "bestViewingAreas": [
+      "Wolf Pen Creek Park",
+      "Signed park lawns",
+      "Official activity areas"
+    ],
+    "arrivalTips": [
+      "Use city parking instructions before entering the park road loop.",
+      "Keep a backup pickup point outside the closest park exits."
+    ],
+    "localSafetyUrl": "https://www.cstx.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Baytown",
+    "slug": "baytown",
+    "timezone": "America/Chicago",
+    "intro": "Baytown's official celebration is a park-based city event with downtown-style parking and family crowd flow.",
+    "bestViewingAreas": [
+      "Bicentennial Park",
+      "Official festival lawns",
+      "Signed family viewing areas"
+    ],
+    "arrivalTips": [
+      "Follow city parking guidance and arrive before the headline evening window.",
+      "Use sidewalks and marked crossings after dark."
+    ],
+    "localSafetyUrl": "https://www.baytown.org/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Flower Mound",
+    "slug": "flower-mound",
+    "timezone": "America/Chicago",
+    "intro": "Flower Mound's Independence Fest page is useful for arrival planning, family timing, and entry sequencing.",
+    "bestViewingAreas": [
+      "Grimes Park vicinity",
+      "Community event grounds",
+      "River-adjacent open areas"
+    ],
+    "arrivalTips": [
+      "Arrive before the first event window for smoother parking.",
+      "Use the city entry points identified on the official event page."
+    ],
+    "localSafetyUrl": "https://www.flowermound.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Rowlett",
+    "slug": "rowlett",
+    "timezone": "America/Chicago",
+    "intro": "Rowlett’s Fireworks on Main page is a practical guide for crowds, road closures, and city event timing.",
+    "bestViewingAreas": [
+      "Rowlett Community Park",
+      "Designated waterfront zones",
+      "Official festival access lanes"
+    ],
+    "arrivalTips": [
+      "Use the city-provided event map for gate sequencing.",
+      "Confirm food and child-care service points before arrival."
+    ],
+    "localSafetyUrl": "https://www.rowletttx.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Tomball",
+    "slug": "tomball",
+    "timezone": "America/Chicago",
+    "intro": "Tomball’s July 4th celebration page supports practical event-window planning and family-friendly route prep.",
+    "bestViewingAreas": [
+      "City celebration street corridor",
+      "Designated firework viewing neighborhoods",
+      "Post-event dispersal routes"
+    ],
+    "arrivalTips": [
+      "Review city announcement details before leaving.",
+      "Use designated pickup zones to reduce congestion after showtime."
+    ],
+    "localSafetyUrl": "https://www.tomballtx.gov/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Dallas",
+    "slug": "dallas",
+    "timezone": "America/Chicago",
+    "intro": "Dallas Independence Day planning around Klyde Warren Park rewards transit-first routes and careful downtown pickup choices.",
+    "bestViewingAreas": [
+      "Klyde Warren Park lawns",
+      "Downtown pedestrian edges",
+      "Official park event zones"
+    ],
+    "arrivalTips": [
+      "Use downtown garages outside the park perimeter.",
+      "Preselect a walking route before the fireworks window."
+    ],
+    "localSafetyUrl": "https://www.klydewarrenpark.org/"
+  },
+  {
+    "country": "US",
+    "state": "TX",
+    "stateSlug": "tx",
+    "city": "Midland",
+    "slug": "midland",
+    "timezone": "America/Chicago",
+    "intro": "Midland's Star-Spangled Salute uses downtown activity zones, making parking and heat planning important for families.",
+    "bestViewingAreas": [
+      "Downtown Midland",
+      "Official salute activity zones",
+      "Open public gathering areas"
+    ],
+    "arrivalTips": [
+      "Arrive early for the downtown festival window.",
+      "Use event staff guidance for safe post-fireworks exits."
+    ],
+    "localSafetyUrl": "https://www.midlandtxchamber.com/salute/"
+  },
+  {
+    "country": "US",
+    "state": "UT",
+    "stateSlug": "ut",
+    "city": "Provo",
+    "slug": "provo",
+    "timezone": "America/Denver",
+    "intro": "Provo's Stadium of Fire is a ticketed stadium fireworks event where seating, parking, and entry rules matter most.",
+    "bestViewingAreas": [
+      "LaVell Edwards Stadium",
+      "Assigned stadium seating",
+      "Official festival areas"
+    ],
+    "arrivalTips": [
+      "Review ticket and stadium entry rules before arrival.",
+      "Plan staged departures because stadium exits can move slowly."
+    ],
+    "localSafetyUrl": "https://www.freedomfestival.org/event/stadium-of-fire/"
+  },
+  {
+    "country": "US",
+    "state": "WA",
+    "stateSlug": "wa",
+    "city": "Seattle",
+    "slug": "seattle",
+    "timezone": "America/Los_Angeles",
+    "intro": "Seattle public 4th of July viewing concentrates around Lake Union, Gas Works Park, and Elliott Bay, with Sound Transit and King County Metro coordinating rerouted service for the evening.",
+    "bestViewingAreas": [
+      "Gas Works Park lawn (Lake Union)",
+      "South Lake Union Park",
+      "Kerry Park (Queen Anne Hill)",
+      "Myrtle Edwards Park (Elliott Bay)"
+    ],
+    "transitTips": [
+      "Use Sound Transit Link from Capitol Hill or U District stations; trains run late on July 4.",
+      "King County Metro reroutes downtown buses around closures — check the day-of service alerts."
+    ],
+    "parkingTips": [
+      "Westlake and South Lake Union garages fill by mid-afternoon. Park-and-ride from Northgate or Tukwila stations.",
+      "Avoid Aurora and Mercer Street between 6pm and 11pm."
+    ],
+    "localSafetyUrl": "https://seattle.gov/fire"
+  },
+  {
+    "country": "US",
+    "state": "WA",
+    "stateSlug": "wa",
+    "city": "Bellevue",
+    "slug": "bellevue",
+    "timezone": "America/Los_Angeles",
+    "intro": "Bellevue's Downtown Park hosts a family-focused 4th of July celebration with limited capacity and managed entry windows.",
+    "bestViewingAreas": [
+      "Bellevue Downtown Park"
+    ],
+    "localSafetyUrl": "https://bellevuewa.gov/city-government/departments/fire"
+  }
+]
